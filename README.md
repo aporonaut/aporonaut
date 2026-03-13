@@ -1,6 +1,10 @@
 <!-- markdownlint-disable MD041 -->
 
 <!-- Main Header -->
+<img src="https://komarev.com/ghpvc/?username=aporonaut&color=414a2c&style=for-the-badge&label=Profile+Views" alt="Profile Views" align="right" vspace="7" />
+<br />
+<br />
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/1cefab81-5270-4220-a074-7575f9e8656c" alt="AlAnsari" />
   <br /><br />
@@ -172,13 +176,15 @@
 
 ---
 
-<!-- Contact Links & Profile Views -->
-<p>
-  <a href="https://www.linkedin.com/in/aaron-alansari/"><img src="assets/icons/LinkedIn.svg" alt="LinkedIn" height="42" align="left" hspace="4" /></a>
-  <a href="https://www.instagram.com/ephemeralansari/"><img src="assets/icons/Instagram.svg" alt="Instagram" height="42" align="left" hspace="4" /></a>
-  <a href="https://www.duolingo.com/profile/AaronAlAnsari"><img src="assets/icons/duolingo.svg" alt="Duolingo" height="42" align="left" hspace="4" /></a>
-  <a href="https://link.chess.com/friend/aYjKnF"><img src="assets/icons/chesscom.svg" alt="Chess.com" height="42" align="left" hspace="4" /></a>
-  <img src="https://komarev.com/ghpvc/?username=aporonaut&color=414a2c&style=for-the-badge&label=Profile+Views" alt="Profile Views" align="right" vspace="7" />
+<!-- Social Links -->
+<p align="center">
+  <img src="assets/social-links-header.svg" alt="Social Links" height="35" />
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/aaron-alansari/"><img src="assets/icons/LinkedIn.svg" alt="LinkedIn" height="42" hspace="4" /></a>
+  <a href="https://www.instagram.com/ephemeralansari/"><img src="assets/icons/Instagram.svg" alt="Instagram" height="42" hspace="4" /></a>
+  <a href="https://www.duolingo.com/profile/AaronAlAnsari"><img src="assets/icons/duolingo.svg" alt="Duolingo" height="42" hspace="4" /></a>
+  <a href="https://link.chess.com/friend/aYjKnF"><img src="assets/icons/chesscom.svg" alt="Chess.com" height="42" hspace="4" /></a>
 </p>
 
 <!-- Footer -->
