@@ -157,8 +157,8 @@
       <!-- CHESS_PUZZLE:START -->
       <div align="center">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=3r4/3kn2p/1p4pP/1p1B1pP1/1P1K1P2/P1P5/8/4R3%20b%20-%20-%200%2037&board=walnut&piece=neo&size=3" />
-          <img src="https://www.chess.com/dynboard?fen=3r4/3kn2p/1p4pP/1p1B1pP1/1P1K1P2/P1P5/8/4R3%20b%20-%20-%200%2037&board=brown&piece=neo&size=3" alt="Get Out of Your Own Way" width="360" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=3r4/3kn2p/1p4pP/1p1B1pP1/1P1K1P2/P1P5/8/4R3%20b%20-%20-%200%2037&board=walnut&piece=neo&size=3&flip=true" />
+          <img src="https://www.chess.com/dynboard?fen=3r4/3kn2p/1p4pP/1p1B1pP1/1P1K1P2/P1P5/8/4R3%20b%20-%20-%200%2037&board=brown&piece=neo&size=3&flip=true" alt="Get Out of Your Own Way" width="360" />
         </picture>
         <br />
         <a href="https://www.chess.com/daily/2026-03-12"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
