@@ -29,20 +29,20 @@ jobs:
           fen_encoded = urllib.parse.quote(fen)
           active_color = fen.split()[1]
           flip = "&flip=true" if active_color == "b" else ""
-          dark_board = f"https://www.chess.com/dynboard?fen={fen_encoded}&board=walnut&piece=neo&size=3{flip}"
-          light_board = f"https://www.chess.com/dynboard?fen={fen_encoded}&board=brown&piece=neo&size=3{flip}"
+          dark_board = f"https://www.chess.com/dynboard?fen={fen_encoded}&board=walnut&piece=neo&size=5{flip}"
+          light_board = f"https://www.chess.com/dynboard?fen={fen_encoded}&board=brown&piece=neo&size=5{flip}"
 
           replacement = (
               "<!-- CHESS_PUZZLE:START -->\n"
-              "      <div align=\"center\">\n"
-              "        <picture>\n"
-              f"          <source media=\"(prefers-color-scheme: dark)\" srcset=\"{dark_board}\" />\n"
-              f"          <img src=\"{light_board}\" alt=\"{title}\" width=\"360\" />\n"
-              "        </picture>\n"
-              "        <br />\n"
-              f"        <a href=\"{url}\"><b>&#9823; Solve today's puzzle on Chess.com</b></a>\n"
-              "      </div>\n"
-              "      <!-- CHESS_PUZZLE:END -->"
+              "<div align=\"center\">\n"
+              "    <picture>\n"
+              f"        <source media=\"(prefers-color-scheme: dark)\" srcset=\"{dark_board}\" />\n"
+              f"        <img src=\"{light_board}\" alt=\"{title}\" width=\"600\" />\n"
+              "    </picture>\n"
+              "    <br />\n"
+              f"    <a href=\"{url}\"><b>&#9823; Solve today's puzzle on Chess.com</b></a>\n"
+              "</div>\n"
+              "<!-- CHESS_PUZZLE:END -->"
           )
 
           with open("README.md", "r") as f:

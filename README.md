@@ -8,9 +8,7 @@
   <br />
   <b>Algorithms, formalization, and the architecture of intelligence.</b>
 </div>
-
 <br />
-
 <p align="center">
   Computer Engineering and Pure Mathematics with a specialization in algorithms, artificial intelligence, and graph theory. I research, design, and engineer AI systems; solving state-of-the-art problems through the intersection of mathematical rigor and innovative engineering.
 </p>
@@ -68,9 +66,10 @@
 
 ---
 
-<!-- GitHub Stats -->
+<!-- GitHub Cards -->
 <table align="center" width="100%">
   <tr>
+    <!-- GitHub Stats -->
     <td width="50%">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=aporonaut&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=D45113&text_color=9e9e9e&icon_color=D45113&custom_title=GitHub%20Stats" />
@@ -78,6 +77,7 @@
         <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aporonaut&show_icons=true&include_all_commits=true&hide_border=true&custom_title=GitHub%20Stats" width="100%" />
       </picture>
     </td>
+    <!-- GitHub Streak -->
     <td width="50%">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=aporonaut&hide_border=true&background=0d1117&ring=D45113&fire=D45113&currStreakNum=d0d0d4&sideNums=9e9e9e&currStreakLabel=D45113&sideLabels=9e9e9e&dates=9e9e9e" />
@@ -87,6 +87,7 @@
     </td>
   </tr>
   <tr>
+    <!-- GitHub Trophies -->
     <td colspan="2">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-trophies.vercel.app/?username=aporonaut&theme=darkhub&no-frame=true&column=6&row=1&margin-w=5" />
@@ -96,6 +97,7 @@
     </td>
   </tr>
   <tr>
+    <!-- GitHub Languages -->
     <td width="50%">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aporonaut&layout=compact&hide_border=true&bg_color=0d1117&title_color=D45113&text_color=9e9e9e&icon_color=D45113" />
@@ -103,6 +105,7 @@
         <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aporonaut&layout=compact&hide_border=true" width="100%" />
       </picture>
     </td>
+    <!-- GitHub Pinned Repo -->
     <td width="50%">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=aporonaut&repo=Envoke&hide_border=true&bg_color=0d1117&title_color=D45113&text_color=9e9e9e&icon_color=D45113" />
@@ -113,6 +116,7 @@
   </tr>
 </table>
 
+<!-- GitHub Activity Graph -->
 <table align="center" width="100%">
   <tr>
     <td>
@@ -131,16 +135,29 @@
 <p align="center">
   <img src="assets/personalized-header.svg" alt="Beyond the Code" height="35" />
 </p>
+<!-- Chess.com Daily Puzzle -->
+<div align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=3r4/3kn2p/1p4pP/1p1B1pP1/1P1K1P2/P1P5/8/4R3%20b%20-%20-%200%2037&board=walnut&piece=neo&size=5" />
+        <img src="https://www.chess.com/dynboard?fen=3r4/3kn2p/1p4pP/1p1B1pP1/1P1K1P2/P1P5/8/4R3%20b%20-%20-%200%2037&board=brown&piece=neo&size=5" alt="Get Out of Your Own Way" width="600" />
+    </picture>
+    <br />
+    <a href="https://www.chess.com/daily/2026-03-12"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+</div>
+
+<br />
 
 <table align="center" width="100%">
   <tr>
+    <!-- AniList Stats -->
     <td width="50%">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://api.anicards.alpha49.com/card.svg?cardType=animeStats&userName=Aporonaut&colorPreset=custom&backgroundColor=%230d1117&titleColor=%23D45113&textColor=%239e9e9e&borderColor=%23D45113" />
-        <source media="(prefers-color-scheme: light)" srcset="https://api.anicards.alpha49.com/card.svg?cardType=animeStats&userName=Aporonaut&colorPreset=custom&backgroundColor=%23ffffff&titleColor=%23D45113&textColor=%23333333&borderColor=%23D45113" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://api.anicards.alpha49.com/card.svg?cardType=animeStats&userName=Aporonaut&colorPreset=custom&backgroundColor=%230d1117&titleColor=%2334abda&textColor=%23d0d0d4&borderColor=%2334abda" />
+        <source media="(prefers-color-scheme: light)" srcset="https://api.anicards.alpha49.com/card.svg?cardType=animeStats&userName=Aporonaut&colorPreset=custom&backgroundColor=%23ffffff&titleColor=%2334abda&textColor=%23333333&borderColor=%2334abda" />
         <img alt="AniList Stats" src="https://api.anicards.alpha49.com/card.svg?cardType=animeStats&userName=Aporonaut" width="100%" />
       </picture>
     </td>
+    <!-- Duolingo Stats -->
     <td width="50%">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://duolingo-stats-card.vercel.app/api?username=AARONALANSARI&theme=dark" />
@@ -151,37 +168,13 @@
   </tr>
 </table>
 
-<table align="center" width="100%">
-  <tr>
-    <td>
-      <!-- CHESS_PUZZLE:START -->
-      <div align="center">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=3r4/3kn2p/1p4pP/1p1B1pP1/1P1K1P2/P1P5/8/4R3%20b%20-%20-%200%2037&board=walnut&piece=neo&size=3" />
-          <img src="https://www.chess.com/dynboard?fen=3r4/3kn2p/1p4pP/1p1B1pP1/1P1K1P2/P1P5/8/4R3%20b%20-%20-%200%2037&board=brown&piece=neo&size=3" alt="Get Out of Your Own Way" width="360" />
-        </picture>
-        <br />
-        <a href="https://www.chess.com/daily/2026-03-12"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
-      </div>
-      <!-- CHESS_PUZZLE:END -->
-    </td>
-  </tr>
-</table>
-
 ---
 
-<!-- Contact Links -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/aaron-alansari/"><img src="assets/icons/LinkedIn.svg" alt="LinkedIn" height="42" /></a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/ephemeralansari/"><img src="assets/icons/Instagram.svg" alt="Instagram" height="42" /></a>
-</p>
-
-<br />
-
-<!-- Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aporonaut&color=414a2c&style=flat-square&label=Profile+Views" alt="Profile Views" />
+<!-- Contact Links & Profile Views -->
+<p>
+  <a href="https://www.linkedin.com/in/aaron-alansari/"><img src="assets/icons/LinkedIn.svg" alt="LinkedIn" height="42" align="left" hspace="4" /></a>
+  <a href="https://www.instagram.com/ephemeralansari/"><img src="assets/icons/Instagram.svg" alt="Instagram" height="42" align="left" /></a>
+  <img src="https://komarev.com/ghpvc/?username=aporonaut&color=414a2c&style=for-the-badge&label=Profile+Views" alt="Profile Views" align="right" vspace="7" />
 </p>
 
 <!-- Footer -->
