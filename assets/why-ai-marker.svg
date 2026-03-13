@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 70" fill="none">
+  <style>
+    .ribbon { fill: #414a2c; }
+    .fold { fill: #566339; }
+    .text { fill: #FFFFFF; font-family: 'Georgia', 'Times New Roman', serif; font-weight: 700; font-size: 17px; letter-spacing: 4px; }
+  </style>
+
+  <!-- Left tail (behind the fold) -->
+  <path class="fold" d="M 38,18 L 80,18 L 80,52 L 38,52 L 56,35 Z"/>
+
+  <!-- Right tail (behind the fold) -->
+  <path class="fold" d="M 322,18 L 280,18 L 280,52 L 322,52 L 304,35 Z"/>
+
+  <!-- Main ribbon body with slight convex curve -->
+  <path class="ribbon" d="M 72,14 Q 180,8 288,14 L 288,56 Q 180,62 72,56 Z"/>
+
+  <!-- Left fold shadow (where ribbon turns behind) -->
+  <path class="fold" d="M 72,14 L 80,18 L 80,52 L 72,56 Z"/>
+
+  <!-- Right fold shadow -->
+  <path class="fold" d="M 288,14 L 280,18 L 280,52 L 288,56 Z"/>
+
+  <!-- Text centered on ribbon -->
+  <text class="text" x="180" y="41" text-anchor="middle">WHY AI?</text>
+</svg>
