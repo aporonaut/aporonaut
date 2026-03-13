@@ -135,15 +135,17 @@
 <p align="center">
   <img src="assets/personalized-header.svg" alt="Beyond the Code" height="35" />
 </p>
-<!-- Chess.com Daily Puzzle -->
+
+<!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=3r4/3kn2p/1p4pP/1p1B1pP1/1P1K1P2/P1P5/8/4R3%20b%20-%20-%200%2037&board=walnut&piece=neo&size=5" />
-        <img src="https://www.chess.com/dynboard?fen=3r4/3kn2p/1p4pP/1p1B1pP1/1P1K1P2/P1P5/8/4R3%20b%20-%20-%200%2037&board=brown&piece=neo&size=5" alt="Get Out of Your Own Way" width="600" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=3r4/3kn2p/1p4pP/1p1B1pP1/1P1K1P2/P1P5/8/4R3%20b%20-%20-%200%2037&board=walnut&piece=neo&size=3&flip=true" />
+        <img src="https://www.chess.com/dynboard?fen=3r4/3kn2p/1p4pP/1p1B1pP1/1P1K1P2/P1P5/8/4R3%20b%20-%20-%200%2037&board=brown&piece=neo&size=3&flip=true" alt="Get Out of Your Own Way" width="55%" />
     </picture>
     <br />
     <a href="https://www.chess.com/daily/2026-03-12"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
+<!-- CHESS_PUZZLE:END -->
 
 <br />
 
