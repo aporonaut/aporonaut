@@ -149,8 +149,11 @@
       </picture>
     </td>
   </tr>
+</table>
+
+<table align="center" width="100%">
   <tr>
-    <td colspan="2">
+    <td>
       <!-- CHESS_PUZZLE:START -->
       <div align="center">
         <picture>

@@ -12,7 +12,7 @@ jobs:
   update-puzzle:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
       - name: Fetch puzzle and update README
         run: |
@@ -27,8 +27,10 @@ jobs:
           title = puzzle.get("title", "Daily Chess Puzzle")
 
           fen_encoded = urllib.parse.quote(fen)
-          dark_board = f"https://www.chess.com/dynboard?fen={fen_encoded}&board=walnut&piece=neo&size=3"
-          light_board = f"https://www.chess.com/dynboard?fen={fen_encoded}&board=brown&piece=neo&size=3"
+          active_color = fen.split()[1]
+          flip = "&flip=true" if active_color == "b" else ""
+          dark_board = f"https://www.chess.com/dynboard?fen={fen_encoded}&board=walnut&piece=neo&size=3{flip}"
+          light_board = f"https://www.chess.com/dynboard?fen={fen_encoded}&board=brown&piece=neo&size=3{flip}"
 
           replacement = (
               "<!-- CHESS_PUZZLE:START -->\n"
