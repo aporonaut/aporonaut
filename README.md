@@ -58,10 +58,14 @@
   <img src="assets/current-focus-header.svg" alt="Currently working on..." height="35" />
   <br /><br />
   <p>
-    <img src="https://cdn.simpleicons.org/claude/D77655" alt="" height="24" /> _ Developing Claude Code customization framework<br /><br />
-    <img src="https://cdn.simpleicons.org/arxiv/B31B1B" alt="" height="24" /> _ Expanding my project portfolio across AI and systems engineering<br /><br />
-    <img src="https://cdn.simpleicons.org/coursera/0056D2" alt="" height="24" /> _ Pursuing AI certifications and deepening applied research<br /><br />
-    <img src="https://cdn.simpleicons.org/graphql/E10098" alt="" height="24" /> _ Building tools at the intersection of graph theory and machine learning
+    <img src="https://cdn.simpleicons.org/claude/D97757" alt="" height="20" /> _ ccForge | Structured templates and guidance for personalizing Claude Code<br /><br />
+    <img src="https://cdn.simpleicons.org/neo4j/4581C3" alt="" height="20" /> _ Heuristic Advising Algorithm | Graph-driven course scheduling through coloring, matching, and clustering<br /><br />
+    <img src="https://cdn.simpleicons.org/arduino/00878F" alt="" height="20" /> _ Grey Wolf Optimizer MCU | Grey Wolf metaheuristic implemented on FPGA<br /><br />
+    <img src="https://cdn.simpleicons.org/letterboxd/00E054" alt="" height="20" /> _ Ananym | Multilingual anagram engine decomposing names into meaningful n-gram words<br /><br />
+    <img src="https://cdn.simpleicons.org/researchgate/00CCBB" alt="" height="20" /> _ Ant Colony Optimization | Novel multi-objective swarm optimization research<br /><br />
+    <img src="https://cdn.simpleicons.org/d3/F9A03C" alt="" height="20" /> _ Dynamic Family Tree | Interactive genealogy rendered as a traversable olive tree<br /><br />
+    <img src="https://cdn.simpleicons.org/sagemath/3333FF" alt="" height="20" /> _ Graph Crossing | Dimensional graph unfolding modeled through billiard dynamics<br /><br />
+    <img src="https://cdn.simpleicons.org/coursera/0056D2" alt="" height="20" /> _ Pursuing AI certifications and deepening applied research
   </p>
 </div>
 
