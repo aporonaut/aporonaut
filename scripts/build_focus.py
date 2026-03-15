@@ -16,7 +16,7 @@ README = ROOT / "README.md"
 FOCUS_DIR = ROOT / "assets" / "focus"
 
 # SVG layout constants
-SVG_WIDTH = 846       # fixed width matching GitHub profile content area
+SVG_WIDTH = 838       # fixed width matching GitHub repo content area (smaller of repo/profile)
 BASE_HEIGHT = 28      # single-line item height
 LINE_HEIGHT_PX = 18   # line spacing for wrapped text
 ICON_SIZE = 20
@@ -33,8 +33,9 @@ TEXT_AREA = SVG_WIDTH - ICON_COL_END   # 806px
 TITLE_WIDTH = int(TEXT_AREA * 0.25)    # 201px
 TAG_WIDTH = TEXT_AREA - TITLE_WIDTH    # 605px
 
-COL_TITLE_CENTER = ICON_COL_END + TITLE_WIDTH // 2                # 140
-COL_TAG_CENTER = ICON_COL_END + TITLE_WIDTH + TAG_WIDTH // 2      # 543
+COL_TITLE_CENTER = ICON_COL_END + TITLE_WIDTH // 2                # ~139
+COL_TAG_CENTER = ICON_COL_END + TITLE_WIDTH + TAG_WIDTH // 2      # ~539
+ICON_TITLE_SEP_X = (ICON_PAD + ICON_SIZE + ICON_COL_END) // 2    # 35 — midpoint of icon-title gap
 
 # Rough average char width for wrap estimation (proportional font)
 AVG_CHAR_WIDTH_BOLD = 8.0
@@ -129,6 +130,7 @@ def build_svg(name: str, tagline: str, color: str, icon_path_d: str,
   <svg x="{ICON_X}" y="{icon_y}" width="{ICON_SIZE}" height="{ICON_SIZE}" viewBox="{ICON_VIEWBOX}">
     <path d="{icon_path_d}" fill="#{color}"/>
   </svg>
+  <line class="sep" x1="{ICON_TITLE_SEP_X}" y1="4" x2="{ICON_TITLE_SEP_X}" y2="{svg_height - 4}" stroke-width="1" opacity="0.3"/>
   <line class="sep" x1="{sep_x}" y1="4" x2="{sep_x}" y2="{svg_height - 4}" stroke-width="1" opacity="0.3"/>
   <text>
     {title_tspans}
