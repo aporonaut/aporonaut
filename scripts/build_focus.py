@@ -33,15 +33,31 @@ ICON_RIGHT = ICON_X + ICON_SIZE        # 30px — icon right edge
 INIT_TITLE_WIDTH = int((SVG_WIDTH - ICON_RIGHT - ICON_PAD) * 0.25)
 INIT_TAG_WIDTH = int((SVG_WIDTH - ICON_RIGHT - ICON_PAD) * 0.75)
 
-# Rough average char width for wrap estimation (proportional font)
-AVG_CHAR_WIDTH_BOLD = 6.8
-AVG_CHAR_WIDTH = 6.8
+# Per-character width table for Segoe UI at 14px (approximate font metrics)
+CHAR_WIDTHS = {
+    ' ': 3.5,
+    'a': 7.7, 'b': 7.9, 'c': 6.5, 'd': 7.9, 'e': 7.3,
+    'f': 4.5, 'g': 7.9, 'h': 7.8, 'i': 3.2, 'j': 3.8,
+    'k': 7.0, 'l': 3.2, 'm': 11.8, 'n': 7.8, 'o': 7.9,
+    'p': 7.9, 'q': 7.9, 'r': 5.0, 's': 6.3, 't': 4.8,
+    'u': 7.8, 'v': 7.0, 'w': 10.2, 'x': 6.8, 'y': 7.0,
+    'z': 6.3,
+    'A': 8.8, 'B': 8.0, 'C': 7.8, 'D': 9.0, 'E': 7.3,
+    'F': 6.8, 'G': 8.8, 'H': 9.2, 'I': 3.5, 'J': 5.5,
+    'K': 8.0, 'L': 7.0, 'M': 10.8, 'N': 9.2, 'O': 9.3,
+    'P': 7.8, 'Q': 9.3, 'R': 8.2, 'S': 7.3, 'T': 7.5,
+    'U': 9.0, 'V': 8.5, 'W': 12.0, 'X': 8.0, 'Y': 7.8,
+    'Z': 7.8,
+    '-': 4.5, '.': 3.5, ',': 3.5, "'": 3.0,
+}
+DEFAULT_CHAR_WIDTH = 7.0
+BOLD_MULTIPLIER = 1.05
 
 
 def estimate_width(text: str, bold: bool = False) -> float:
-    """Rough pixel width estimate for a string at FONT_SIZE."""
-    avg = AVG_CHAR_WIDTH_BOLD if bold else AVG_CHAR_WIDTH
-    return len(text) * avg
+    """Estimate pixel width using per-character lookup table."""
+    width = sum(CHAR_WIDTHS.get(c, DEFAULT_CHAR_WIDTH) for c in text)
+    return width * BOLD_MULTIPLIER if bold else width
 
 
 def wrap_text(text: str, max_width: float) -> list[str]:
@@ -51,7 +67,7 @@ def wrap_text(text: str, max_width: float) -> list[str]:
     current_width = 0.0
     for word in words:
         word_width = estimate_width(word)
-        space_width = AVG_CHAR_WIDTH if current else 0
+        space_width = CHAR_WIDTHS[' '] if current else 0
         if current and current_width + space_width + word_width > max_width:
             lines.append(" ".join(current))
             current, current_width = [word], word_width
