@@ -51,7 +51,7 @@ CHAR_WIDTHS = {
     '-': 4.5, '.': 3.5, ',': 3.5, "'": 3.0,
 }
 DEFAULT_CHAR_WIDTH = 7.0
-BOLD_MULTIPLIER = 1.05
+BOLD_MULTIPLIER = 1.0
 
 
 def estimate_width(text: str, bold: bool = False) -> float:
