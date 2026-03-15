@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 645 46">
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="28" viewBox="0 0 827 28" preserveAspectRatio="xMidYMid meet">
   <style>
     .name { font-family: 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 600; }
     .sep  { font-family: 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 14px; opacity: 0.5; }
@@ -16,7 +16,6 @@
   <text y="14" dominant-baseline="central">
     <tspan class="name" x="28">Heuristic Advising Algorithm</tspan>
     <tspan class="sep" dx="12">|</tspan>
-    <tspan class="tag" dx="12">Graph-driven course scheduling through coloring</tspan>
-    <tspan class="tag" x="28" dy="18">matching and clustering</tspan>
+    <tspan class="tag" dx="12">Graph-driven course scheduling through coloring matching and clustering</tspan>
   </text>
 </svg>

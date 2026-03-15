@@ -26,7 +26,7 @@ FONT_FAMILY = "'Segoe UI', Helvetica, Arial, sans-serif"
 ICON_TEXT_GAP = 8   # px between icon right edge and name text
 TSPAN_DX = 12       # px relative gap between name/pipe and pipe/tagline
 WRAP_DY = 18        # px vertical offset for wrapped lines
-MAX_WIDTH = 650     # max viewBox width before tagline wraps
+VIEWBOX_WIDTH = 850  # fixed viewBox width for all SVGs (uniform scaling)
 PIPE_WIDTH = 4.0    # estimated width of "|" character
 
 # Rough average char width for viewBox sizing (proportional font estimate)
@@ -77,30 +77,30 @@ def fetch_icon_path(slug: str) -> str:
 
 def build_svg(name: str, tagline: str, color: str, icon_path_d: str) -> str:
     """Generate an SVG with icon + name + pipe + tagline, all vertically centered."""
-    x_text = ICON_SIZE + ICON_TEXT_GAP  # 28px — where name starts
+    x_text = ICON_SIZE + ICON_TEXT_GAP  # 28px — content left-aligned at x=0
 
-    # Estimate first-line content width
+    # Estimate first-line width for wrapping and viewBox sizing
     name_width = estimate_width(name, bold=True)
     first_line_prefix = x_text + name_width + TSPAN_DX + PIPE_WIDTH + TSPAN_DX
-    available_for_tagline = MAX_WIDTH - first_line_prefix - 8  # 8px right padding
+    available_for_tagline = VIEWBOX_WIDTH - first_line_prefix - 8
 
     tag_lines = wrap_text(tagline, available_for_tagline)
 
     # Build tagline tspans
+    tagline_x = int(first_line_prefix)
     tag_tspans = f'<tspan class="tag" dx="{TSPAN_DX}">{tag_lines[0]}</tspan>'
     for extra_line in tag_lines[1:]:
-        tag_tspans += f'\n    <tspan class="tag" x="{x_text}" dy="{WRAP_DY}">{extra_line}</tspan>'
+        tag_tspans += f'\n    <tspan class="tag" x="{tagline_x}" dy="{WRAP_DY}">{extra_line}</tspan>'
 
-    # Calculate tight viewBox dimensions
     extra_lines = len(tag_lines) - 1
     svg_height = LINE_HEIGHT + extra_lines * WRAP_DY
 
-    # Width = max of first line and any wrapped lines
+    # Tight viewBox width (content only), but fixed SVG width for uniform scaling
     first_line_width = int(first_line_prefix + estimate_width(tag_lines[0]) + 8)
-    wrapped_widths = [int(x_text + estimate_width(line) + 8) for line in tag_lines[1:]]
-    svg_width = max(first_line_width, *wrapped_widths) if wrapped_widths else first_line_width
+    wrapped_widths = [int(tagline_x + estimate_width(line) + 8) for line in tag_lines[1:]]
+    vb_width = max(first_line_width, *wrapped_widths) if wrapped_widths else first_line_width
 
-    return f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {svg_width} {svg_height}">
+    return f"""<svg xmlns="http://www.w3.org/2000/svg" width="{VIEWBOX_WIDTH}" height="{svg_height}" viewBox="0 0 {vb_width} {svg_height}" preserveAspectRatio="xMidYMid meet">
   <style>
     .name {{ font-family: {FONT_FAMILY}; font-size: {FONT_SIZE}px; font-weight: 600; }}
     .sep  {{ font-family: {FONT_FAMILY}; font-size: {FONT_SIZE}px; opacity: 0.5; }}
