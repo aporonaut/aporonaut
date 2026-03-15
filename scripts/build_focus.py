@@ -1,8 +1,8 @@
 """Build focus section SVGs from config in README.md.
 
 Reads FOCUS:CONFIG comment block from README, fetches SimpleIcons SVGs,
-generates combined icon+text SVGs with tabular column layout, and
-updates the README with <img> tags pointing to the generated files.
+generates combined icon+text SVGs with algebraically balanced column layout,
+and updates the README with <img> tags pointing to the generated files.
 """
 
 import re
@@ -16,7 +16,7 @@ README = ROOT / "README.md"
 FOCUS_DIR = ROOT / "assets" / "focus"
 
 # SVG layout constants
-SVG_WIDTH = 838       # fixed width matching GitHub repo content area (smaller of repo/profile)
+SVG_WIDTH = 838       # fixed width matching GitHub repo content area
 BASE_HEIGHT = 28      # single-line item height
 LINE_HEIGHT_PX = 18   # line spacing for wrapped text
 ICON_SIZE = 20
@@ -24,18 +24,14 @@ ICON_VIEWBOX = "0 0 24 24"
 FONT_SIZE = 14
 FONT_FAMILY = "'Segoe UI', Helvetica, Arial, sans-serif"
 
-# Column layout
-ICON_PAD = 10                          # padding on left of icon AND between icon and title
+# Icon positioning
+ICON_PAD = 10
 ICON_X = ICON_PAD                      # 10px — icon left edge
-ICON_TITLE_SEP_X = ICON_PAD + ICON_SIZE + ICON_PAD  # 40 — equal buffer on both sides of icon
-TITLE_COL_START = ICON_TITLE_SEP_X + 5              # 45 — small gap after separator
+ICON_RIGHT = ICON_X + ICON_SIZE        # 30px — icon right edge
 
-TEXT_AREA = SVG_WIDTH - TITLE_COL_START              # 793px
-TITLE_WIDTH = int(TEXT_AREA * 0.25)                  # 198px
-TAG_WIDTH = TEXT_AREA - TITLE_WIDTH                  # 595px
-
-COL_TITLE_CENTER = TITLE_COL_START + TITLE_WIDTH // 2                    # ~144
-COL_TAG_CENTER = TITLE_COL_START + TITLE_WIDTH + TAG_WIDTH // 2          # ~540
+# Initial column widths for first-pass wrapping (25%/75% of text area)
+INIT_TITLE_WIDTH = int((SVG_WIDTH - ICON_RIGHT - ICON_PAD) * 0.25)
+INIT_TAG_WIDTH = int((SVG_WIDTH - ICON_RIGHT - ICON_PAD) * 0.75)
 
 # Rough average char width for wrap estimation (proportional font)
 AVG_CHAR_WIDTH_BOLD = 8.0
@@ -67,6 +63,55 @@ def wrap_text(text: str, max_width: float) -> list[str]:
     return lines
 
 
+def max_line_width(text: str, col_width: float, bold: bool = False) -> float:
+    """Get the estimated width of the widest line after wrapping."""
+    lines = wrap_text(text, col_width)
+    return max(estimate_width(line, bold) for line in lines)
+
+
+def solve_layout(items: list[tuple[str, str, str, str]]) -> dict:
+    """Solve for balanced separator and column center positions.
+
+    System of equations:
+      sep1 = midpoint(icon_right, title_left)
+      title_center = midpoint(sep1, sep2)
+      sep2 = midpoint(title_right, tag_left)
+      tag_center = midpoint(sep2, SVG_WIDTH)
+
+    Solved algebraically for sep1, sep2, title_center, tag_center.
+    """
+    R = ICON_RIGHT  # 30
+    W = SVG_WIDTH   # 838
+
+    # Pass 1: wrap with initial estimates, find max line widths
+    max_t = max(max_line_width(name, INIT_TITLE_WIDTH, bold=True)
+                for _, _, name, _ in items)
+    max_g = max(max_line_width(tag, INIT_TAG_WIDTH, bold=False)
+                for _, _, _, tag in items)
+
+    T = max_t / 2  # half-width of widest title line
+    G = max_g / 2  # half-width of widest tagline line
+
+    # Solve
+    sep2 = (2 * R + 4 * T + 3 * W - 6 * G) / 5
+    sep1 = (2 * R + sep2 - 2 * T) / 3
+    title_center = (sep1 + sep2) / 2
+    tag_center = (sep2 + W) / 2
+
+    # Column widths for wrapping (space between separators / edges)
+    title_col_width = sep2 - sep1
+    tag_col_width = W - sep2
+
+    return {
+        "sep1": int(sep1),
+        "sep2": int(sep2),
+        "title_center": int(title_center),
+        "tag_center": int(tag_center),
+        "title_col_width": title_col_width,
+        "tag_col_width": tag_col_width,
+    }
+
+
 def fetch_icon_path(slug: str) -> str:
     """Fetch SimpleIcons SVG and extract the path d attribute."""
     url = f"https://cdn.simpleicons.org/{slug}"
@@ -96,10 +141,15 @@ def _build_column_tspans(lines: list[str], center_x: int, css_class: str,
 
 
 def build_svg(name: str, tagline: str, color: str, icon_path_d: str,
-              sep_x: int) -> str:
-    """Generate an SVG with tabular column layout and balanced separator."""
-    title_lines = wrap_text(name, TITLE_WIDTH)
-    tag_lines = wrap_text(tagline, TAG_WIDTH)
+              layout: dict) -> str:
+    """Generate an SVG with algebraically balanced column layout."""
+    sep1 = layout["sep1"]
+    sep2 = layout["sep2"]
+    tc = layout["title_center"]
+    gc = layout["tag_center"]
+
+    title_lines = wrap_text(name, layout["title_col_width"])
+    tag_lines = wrap_text(tagline, layout["tag_col_width"])
 
     max_lines = max(len(title_lines), len(tag_lines), 1)
     svg_height = max(BASE_HEIGHT, (max_lines - 1) * LINE_HEIGHT_PX + BASE_HEIGHT)
@@ -109,8 +159,8 @@ def build_svg(name: str, tagline: str, color: str, icon_path_d: str,
         block_height = (num_lines - 1) * LINE_HEIGHT_PX
         return mid_y - block_height / 2
 
-    title_tspans = _build_column_tspans(title_lines, COL_TITLE_CENTER, "name", col_start_y(len(title_lines)))
-    tag_tspans = _build_column_tspans(tag_lines, COL_TAG_CENTER, "tag", col_start_y(len(tag_lines)))
+    title_tspans = _build_column_tspans(title_lines, tc, "name", col_start_y(len(title_lines)))
+    tag_tspans = _build_column_tspans(tag_lines, gc, "tag", col_start_y(len(tag_lines)))
 
     icon_y = int(mid_y - ICON_SIZE / 2)
 
@@ -130,8 +180,8 @@ def build_svg(name: str, tagline: str, color: str, icon_path_d: str,
   <svg x="{ICON_X}" y="{icon_y}" width="{ICON_SIZE}" height="{ICON_SIZE}" viewBox="{ICON_VIEWBOX}">
     <path d="{icon_path_d}" fill="#{color}"/>
   </svg>
-  <line class="sep" x1="{ICON_TITLE_SEP_X}" y1="4" x2="{ICON_TITLE_SEP_X}" y2="{svg_height - 4}" stroke-width="1" opacity="0.3"/>
-  <line class="sep" x1="{sep_x}" y1="4" x2="{sep_x}" y2="{svg_height - 4}" stroke-width="1" opacity="0.3"/>
+  <line class="sep" x1="{sep1}" y1="4" x2="{sep1}" y2="{svg_height - 4}" stroke-width="1" opacity="0.3"/>
+  <line class="sep" x1="{sep2}" y1="4" x2="{sep2}" y2="{svg_height - 4}" stroke-width="1" opacity="0.3"/>
   <text>
     {title_tspans}
     {tag_tspans}
@@ -168,20 +218,6 @@ def parse_config(readme_text: str) -> list[tuple[str, str, str, str]]:
     return items
 
 
-def calculate_sep_x(items: list[tuple[str, str, str, str]]) -> int:
-    """Calculate balanced separator x position across all items."""
-    max_title_width = max(estimate_width(name, bold=True) for _, _, name, _ in items)
-    max_tag_width = max(estimate_width(tag) for _, _, _, tag in items)
-
-    # Widest title's right edge (centered in title column)
-    title_right = COL_TITLE_CENTER + max_title_width / 2
-    # Widest tagline's left edge (centered in tagline column)
-    tag_left = COL_TAG_CENTER - max_tag_width / 2
-
-    # Separator at midpoint between these edges
-    return int((title_right + tag_left) / 2)
-
-
 def build_readme_block(items: list[tuple[str, str, str, str]], filenames: list[str]) -> str:
     """Generate the HTML block with <img> tags for the README."""
     lines = []
@@ -197,9 +233,10 @@ def main():
     items = parse_config(readme_text)
     print(f"Found {len(items)} focus items in config")
 
-    # Calculate balanced separator position across all items
-    sep_x = calculate_sep_x(items)
-    print(f"Separator x: {sep_x}")
+    # Solve balanced layout from content widths
+    layout = solve_layout(items)
+    print(f"Layout: sep1={layout['sep1']}, sep2={layout['sep2']}, "
+          f"title@{layout['title_center']}, tag@{layout['tag_center']}")
 
     if FOCUS_DIR.exists():
         shutil.rmtree(FOCUS_DIR)
@@ -210,7 +247,7 @@ def main():
         print(f"  Fetching icon: {slug}")
         icon_path_d = fetch_icon_path(slug)
 
-        svg_content = build_svg(name, tagline, color, icon_path_d, sep_x)
+        svg_content = build_svg(name, tagline, color, icon_path_d, layout)
         filename = f"{sanitize_filename(name)}.svg"
         (FOCUS_DIR / filename).write_text(svg_content, encoding="utf-8")
         filenames.append(filename)
