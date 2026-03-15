@@ -17,7 +17,7 @@
 
 <!-- Origin Story -->
 <p align="center">
-    <img src="assets/why-ai-marker.svg" alt="Why AI?" height="36" />
+    <img src="assets/headers/why-ai-marker.svg" alt="Why AI?" height="36" />
 </p>
 <p align="center">
     <em>At eight years old, I stopped mid-play to wonder: if I have to speak on
@@ -36,18 +36,18 @@
 <!-- Skills Marquees -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/marquee-ai-dark.svg" />
-    <img src="assets/marquee-ai-light.svg" width="100%" alt="AI and ML tools" />
+    <source media="(prefers-color-scheme: dark)" srcset="assets/marquees/marquee-ai-dark.svg" />
+    <img src="assets/marquees/marquee-ai-light.svg" width="100%" alt="AI and ML tools" />
   </picture>
   <br />
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/marquee-infra-dark.svg" />
-    <img src="assets/marquee-infra-light.svg" width="100%" alt="Engineering and infrastructure tools" />
+    <source media="(prefers-color-scheme: dark)" srcset="assets/marquees/marquee-infra-dark.svg" />
+    <img src="assets/marquees/marquee-infra-light.svg" width="100%" alt="Engineering and infrastructure tools" />
   </picture>
   <br />
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/marquee-tools-dark.svg" />
-    <img src="assets/marquee-tools-light.svg" width="100%" alt="Tooling and documentation" />
+    <source media="(prefers-color-scheme: dark)" srcset="assets/marquees/marquee-tools-dark.svg" />
+    <img src="assets/marquees/marquee-tools-light.svg" width="100%" alt="Tooling and documentation" />
   </picture>
 </div>
 
@@ -55,18 +55,30 @@
 
 <!-- Current Focus -->
 <div align="center">
-  <img src="assets/current-focus-header.svg" alt="Currently working on..." height="35" />
+  <img src="assets/headers/current-focus-header.svg" alt="Currently working on..." height="35" />
   <br /><br />
+  <!-- FOCUS:CONFIG
+  claude,D97757,ccForge,Structured templates and guidance for personalizing Claude Code
+  neo4j,4581C3,Heuristic Advising Algorithm,Graph-driven course scheduling through coloring matching and clustering
+  arduino,00878F,Grey Wolf Optimizer MCU,Grey Wolf metaheuristic implemented on FPGA
+  letterboxd,00E054,Ananym,Multilingual anagram engine decomposing names into meaningful n-gram words
+  researchgate,00CCBB,Ant Colony Optimization,Novel multi-objective swarm optimization research
+  d3,F9A03C,Dynamic Family Tree,Interactive genealogy rendered as a traversable olive tree
+  sagemath,3333FF,Graph Crossing,Dimensional graph unfolding modeled through billiard dynamics
+  coursera,0056D2,AI Certifications,Pursuing certifications and deepening applied research
+  FOCUS:CONFIG -->
+  <!-- FOCUS:START -->
   <p>
-    <img src="https://cdn.simpleicons.org/claude/D97757" alt="" height="20" /> _ ccForge | Structured templates and guidance for personalizing Claude Code<br /><br />
-    <img src="https://cdn.simpleicons.org/neo4j/4581C3" alt="" height="20" /> _ Heuristic Advising Algorithm | Graph-driven course scheduling through coloring, matching, and clustering<br /><br />
-    <img src="https://cdn.simpleicons.org/arduino/00878F" alt="" height="20" /> _ Grey Wolf Optimizer MCU | Grey Wolf metaheuristic implemented on FPGA<br /><br />
-    <img src="https://cdn.simpleicons.org/letterboxd/00E054" alt="" height="20" /> _ Ananym | Multilingual anagram engine decomposing names into meaningful n-gram words<br /><br />
-    <img src="https://cdn.simpleicons.org/researchgate/00CCBB" alt="" height="20" /> _ Ant Colony Optimization | Novel multi-objective swarm optimization research<br /><br />
-    <img src="https://cdn.simpleicons.org/d3/F9A03C" alt="" height="20" /> _ Dynamic Family Tree | Interactive genealogy rendered as a traversable olive tree<br /><br />
-    <img src="https://cdn.simpleicons.org/sagemath/3333FF" alt="" height="20" /> _ Graph Crossing | Dimensional graph unfolding modeled through billiard dynamics<br /><br />
-    <img src="https://cdn.simpleicons.org/coursera/0056D2" alt="" height="20" /> _ Pursuing AI certifications and deepening applied research
+    <img src="assets/focus/ccforge.svg" alt="ccForge | Structured templates and guidance for personalizing Claude Code" /><br /><br />
+    <img src="assets/focus/heuristic-advising-algorithm.svg" alt="Heuristic Advising Algorithm | Graph-driven course scheduling through coloring matching and clustering" /><br /><br />
+    <img src="assets/focus/grey-wolf-optimizer-mcu.svg" alt="Grey Wolf Optimizer MCU | Grey Wolf metaheuristic implemented on FPGA" /><br /><br />
+    <img src="assets/focus/ananym.svg" alt="Ananym | Multilingual anagram engine decomposing names into meaningful n-gram words" /><br /><br />
+    <img src="assets/focus/ant-colony-optimization.svg" alt="Ant Colony Optimization | Novel multi-objective swarm optimization research" /><br /><br />
+    <img src="assets/focus/dynamic-family-tree.svg" alt="Dynamic Family Tree | Interactive genealogy rendered as a traversable olive tree" /><br /><br />
+    <img src="assets/focus/graph-crossing.svg" alt="Graph Crossing | Dimensional graph unfolding modeled through billiard dynamics" /><br /><br />
+    <img src="assets/focus/ai-certifications.svg" alt="AI Certifications | Pursuing certifications and deepening applied research" />
   </p>
+<!-- FOCUS:END -->
 </div>
 
 ---
@@ -138,7 +150,7 @@
 
 <!-- Personalized Cards -->
 <p align="center">
-  <img src="assets/personalized-header.svg" alt="Beyond the Code" height="35" />
+  <img src="assets/headers/personalized-header.svg" alt="Beyond the Code" height="35" />
 </p>
 
 <!-- CHESS_PUZZLE:START -->
@@ -179,7 +191,7 @@
 
 <!-- Social Links -->
 <p align="center">
-  <img src="assets/social-links-header.svg" alt="Social Links" height="35" />
+  <img src="assets/headers/social-links-header.svg" alt="Social Links" height="35" />
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/aaron-alansari/"><img src="assets/icons/LinkedIn.svg" alt="LinkedIn" height="42" hspace="4" /></a>

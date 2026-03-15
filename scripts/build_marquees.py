@@ -11,7 +11,7 @@ import xml.etree.ElementTree as ET
 from pathlib import Path
 
 ICONS_DIR = Path(__file__).parent.parent / "assets" / "icons"
-OUTPUT_DIR = Path(__file__).parent.parent / "assets"
+OUTPUT_DIR = Path(__file__).parent.parent / "assets" / "marquees"
 
 ICON_SIZE = 44
 ICON_SPACING = 56
