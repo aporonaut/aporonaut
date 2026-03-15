@@ -69,6 +69,7 @@
   FOCUS:CONFIG -->
   <!-- FOCUS:START -->
   <p>
+    <img src="assets/focus/testname.svg" alt="TestName | A test project to check if the github webhook can produce svgs correctly" /><br /><br />
     <img src="assets/focus/ccforge.svg" alt="ccForge | Structured templates and guidance for personalizing Claude Code" /><br /><br />
     <img src="assets/focus/heuristic-advising-algorithm.svg" alt="Heuristic Advising Algorithm | Graph-driven course scheduling through coloring matching and clustering" /><br /><br />
     <img src="assets/focus/grey-wolf-optimizer-mcu.svg" alt="Grey Wolf Optimizer MCU | Grey Wolf metaheuristic implemented on FPGA" /><br /><br />
