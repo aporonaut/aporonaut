@@ -34,8 +34,8 @@ INIT_TITLE_WIDTH = int((SVG_WIDTH - ICON_RIGHT - ICON_PAD) * 0.25)
 INIT_TAG_WIDTH = int((SVG_WIDTH - ICON_RIGHT - ICON_PAD) * 0.75)
 
 # Rough average char width for wrap estimation (proportional font)
-AVG_CHAR_WIDTH_BOLD = 8.0
-AVG_CHAR_WIDTH = 7.6
+AVG_CHAR_WIDTH_BOLD = 6.8
+AVG_CHAR_WIDTH = 6.8
 
 
 def estimate_width(text: str, bold: bool = False) -> float:
@@ -180,7 +180,6 @@ def build_svg(name: str, tagline: str, color: str, icon_path_d: str,
   <svg x="{ICON_X}" y="{icon_y}" width="{ICON_SIZE}" height="{ICON_SIZE}" viewBox="{ICON_VIEWBOX}">
     <path d="{icon_path_d}" fill="#{color}"/>
   </svg>
-  <line class="sep" x1="{sep1}" y1="4" x2="{sep1}" y2="{svg_height - 4}" stroke-width="1" opacity="0.3"/>
   <line class="sep" x1="{sep2}" y1="4" x2="{sep2}" y2="{svg_height - 4}" stroke-width="1" opacity="0.3"/>
   <text>
     {title_tspans}
