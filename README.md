@@ -58,10 +58,10 @@
   <img src="assets/current-focus-header.svg" alt="Currently working on..." height="35" />
   <br /><br />
   <p>
-    <img src="https://cdn.simpleicons.org/claude/D77655" alt="" height="20" align="middle" /> Developing Claude Code customization framework<br /><br />
-    <img src="https://cdn.simpleicons.org/arxiv/B31B1B" alt="" height="20" align="middle" /> Expanding my project portfolio across AI and systems engineering<br /><br />
-    <img src="https://cdn.simpleicons.org/coursera/0056D2" alt="" height="20" align="middle" /> Pursuing AI certifications and deepening applied research<br /><br />
-    <img src="https://cdn.simpleicons.org/graphql/E10098" alt="" height="20" align="middle" /> Building tools at the intersection of graph theory and machine learning
+    <img src="https://cdn.simpleicons.org/claude/D77655" alt="" height="24" /> _ Developing Claude Code customization framework<br /><br />
+    <img src="https://cdn.simpleicons.org/arxiv/B31B1B" alt="" height="24" /> _ Expanding my project portfolio across AI and systems engineering<br /><br />
+    <img src="https://cdn.simpleicons.org/coursera/0056D2" alt="" height="24" /> _ Pursuing AI certifications and deepening applied research<br /><br />
+    <img src="https://cdn.simpleicons.org/graphql/E10098" alt="" height="24" /> _ Building tools at the intersection of graph theory and machine learning
   </p>
 </div>
 
