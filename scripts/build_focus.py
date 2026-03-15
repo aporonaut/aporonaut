@@ -26,16 +26,16 @@ FONT_FAMILY = "'Segoe UI', Helvetica, Arial, sans-serif"
 
 # Column layout
 ICON_PAD = 10                          # padding on left of icon AND between icon and title
-ICON_COL_END = ICON_PAD + ICON_SIZE + ICON_PAD  # 40px
 ICON_X = ICON_PAD                      # 10px — icon left edge
+ICON_TITLE_SEP_X = ICON_PAD + ICON_SIZE + ICON_PAD  # 40 — equal buffer on both sides of icon
+TITLE_COL_START = ICON_TITLE_SEP_X + 5              # 45 — small gap after separator
 
-TEXT_AREA = SVG_WIDTH - ICON_COL_END   # 806px
-TITLE_WIDTH = int(TEXT_AREA * 0.25)    # 201px
-TAG_WIDTH = TEXT_AREA - TITLE_WIDTH    # 605px
+TEXT_AREA = SVG_WIDTH - TITLE_COL_START              # 793px
+TITLE_WIDTH = int(TEXT_AREA * 0.25)                  # 198px
+TAG_WIDTH = TEXT_AREA - TITLE_WIDTH                  # 595px
 
-COL_TITLE_CENTER = ICON_COL_END + TITLE_WIDTH // 2                # ~139
-COL_TAG_CENTER = ICON_COL_END + TITLE_WIDTH + TAG_WIDTH // 2      # ~539
-ICON_TITLE_SEP_X = (ICON_PAD + ICON_SIZE + ICON_COL_END) // 2    # 35 — midpoint of icon-title gap
+COL_TITLE_CENTER = TITLE_COL_START + TITLE_WIDTH // 2                    # ~144
+COL_TAG_CENTER = TITLE_COL_START + TITLE_WIDTH + TAG_WIDTH // 2          # ~540
 
 # Rough average char width for wrap estimation (proportional font)
 AVG_CHAR_WIDTH_BOLD = 8.0
