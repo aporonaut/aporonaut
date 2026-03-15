@@ -58,6 +58,7 @@
   <img src="assets/headers/current-focus-header.svg" alt="Currently working on..." height="35" />
   <br /><br />
   <!-- FOCUS:CONFIG
+  testcafe,36B6E5,TestName,A test project to check if the github webhook can produce svgs correctly
   claude,D97757,ccForge,Structured templates and guidance for personalizing Claude Code
   neo4j,4581C3,Heuristic Advising Algorithm,Graph-driven course scheduling through coloring matching and clustering
   arduino,00878F,Grey Wolf Optimizer MCU,Grey Wolf metaheuristic implemented on FPGA
