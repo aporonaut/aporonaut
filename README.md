@@ -73,7 +73,7 @@ MARQUEE:CONFIG -->
   d3,F9A03C,Dynamic Family Tree,Interactive genealogy rendered as a traversable olive tree
   sagemath,3333FF,Graph Crossing,Dimensional graph unfolding modeled through billiard dynamics
   coursera,0056D2,AI Certifications,Pursuing certifications and deepening applied research
-  archlinux,#1793D1,Arch Linux,Switching to Arch Linux from Windows to optimize my experiences and deepen my understanding of operating systems
+  archlinux,1793D1,Arch Linux,Switching to Arch Linux from Windows to optimize my experiences and deepen my understanding of operating systems
   FOCUS:CONFIG -->
   <!-- FOCUS:START -->
   <p>
