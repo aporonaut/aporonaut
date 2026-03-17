@@ -156,11 +156,11 @@
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=2r1k3/pb1pp1b1/1p2P1pp/6B1/2PPqQ2/8/1P4PP/R5K1%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=2r1k3/pb1pp1b1/1p2P1pp/6B1/2PPqQ2/8/1P4PP/R5K1%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="You Can Run..." width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=7k/2R3p1/bp4Qp/p2pPp2/P2N4/3qN1B1/1P3PPP/6K1%20b%20-%20-%200%201&board=walnut&piece=neo&size=3&flip=true" />
+        <img src="https://www.chess.com/dynboard?fen=7k/2R3p1/bp4Qp/p2pPp2/P2N4/3qN1B1/1P3PPP/6K1%20b%20-%20-%200%201&board=brown&piece=neo&size=3&flip=true" alt="Bank Shot" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-03-15"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-03-16"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
