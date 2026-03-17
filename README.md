@@ -76,7 +76,6 @@ MARQUEE:CONFIG -->
   FOCUS:CONFIG -->
   <!-- FOCUS:START -->
   <p>
-    <img src="assets/focus/testname.svg" alt="TestName | A test project to check if the github webhook can produce svgs correctly" /><br /><br />
     <img src="assets/focus/ccforge.svg" alt="ccForge | Structured templates and guidance for personalizing Claude Code" /><br /><br />
     <img src="assets/focus/heuristic-advising-algorithm.svg" alt="Heuristic Advising Algorithm | Graph-driven course scheduling through coloring matching and clustering" /><br /><br />
     <img src="assets/focus/grey-wolf-optimizer-mcu.svg" alt="Grey Wolf Optimizer MCU | Grey Wolf metaheuristic implemented on FPGA" /><br /><br />
@@ -164,11 +163,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=6kb/pbr2p1p/1q4pB/4p1N1/4n3/1B1p2PQ/PP3P1P/3R2K1%20w%20-%20-%200%2029&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=6kb/pbr2p1p/1q4pB/4p1N1/4n3/1B1p2PQ/PP3P1P/3R2K1%20w%20-%20-%200%2029&board=brown&piece=neo&size=3" alt="Center of Attention" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=7k/2R3p1/bp4Qp/p2pPp2/P2N4/3qN1B1/1P3PPP/6K1%20b%20-%20-%200%201&board=walnut&piece=neo&size=3&flip=true" />
+        <img src="https://www.chess.com/dynboard?fen=7k/2R3p1/bp4Qp/p2pPp2/P2N4/3qN1B1/1P3PPP/6K1%20b%20-%20-%200%201&board=brown&piece=neo&size=3&flip=true" alt="Bank Shot" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-03-14"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-03-16"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
