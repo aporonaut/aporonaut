@@ -85,7 +85,7 @@ MARQUEE:CONFIG -->
     <img src="assets/focus/dynamic-family-tree.svg" alt="Dynamic Family Tree | Interactive genealogy rendered as a traversable olive tree" /><br /><br />
     <img src="assets/focus/graph-crossing.svg" alt="Graph Crossing | Dimensional graph unfolding modeled through billiard dynamics" /><br /><br />
     <img src="assets/focus/ai-certifications.svg" alt="AI Certifications | Pursuing certifications and deepening applied research" /><br /><br />
-    <img src="assets/focus/arch-linux.svg" alt="Arch Linux | Switching to Arch Linux from Windows to optimize my experiences and deepen my understanding of operating systems" />
+    <img src="assets/focus/arch-linux.svg" alt="Arch Linux | Switching to Arch Linux from Windows" />
   </p>
 <!-- FOCUS:END -->
 </div>
