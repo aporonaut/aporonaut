@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 52" fill="none">
   <style>
-    @keyframes scroll-left-tools {
+    @keyframes scroll-tools {
       from { transform: translateX(0px); }
       to { transform: translateX(-448px); }
     }
     .marquee {
-      animation: scroll-left-tools 28s linear infinite;
+      animation: scroll-tools 28s linear infinite;
     }
   </style>
 
@@ -106,7 +106,7 @@
 </g>
 
   </symbol>
-  <symbol id="ico-elastic-dark" viewBox="0 0 256 256">
+  <symbol id="ico-elasticsearch-dark" viewBox="0 0 256 256">
     <path d="M173.5 98H121.25C121.5 99.25 122 100.5 122.25 101.5C124 107.5 125 113.75 125.5 120.25C125.75 122.75 125.75 125.5 125.75 128C125.75 130.5 125.75 133.25 125.5 135.75C125 142.25 124 148.5 122.25 154.5C122 155.75 121.5 157 121.25 158H173.5C190 158 203.25 144.5 203.25 128C203.25 111.5 190 98 173.5 98Z" fill="#00A9E5"/>
 <path d="M125.5 135.75C125.75 133.25 125.75 130.5 125.75 128C125.75 125.5 125.75 122.75 125.5 120.25C125 113.75 124 107.5 122.25 101.5C122 100.25 121.5 99 121.25 98H40.5C37.5 107.5 36 117.5 36 128C36 138.5 37.5 148.5 40.5 158H121.25C121.5 156.75 122 155.5 122.25 154.5C124 148.5 125 142.25 125.5 135.75Z" fill="#353535"/>
 <path d="M182.5 168H117.5C115.5 172.5 113.25 176.75 110.75 180.75C107 187 102.5 192.5 97.5001 197.75C95.7501 199.5 94.0001 201 92.2501 202.75C88.7501 206 84.7501 208.75 80.7501 211.5C96.5001 222 115.5 228 135.75 228C170.5 228 201 210.25 219 183.5C209.75 174 196.75 168 182.5 168Z" fill="#00BFB3"/>
@@ -145,7 +145,7 @@
     <use href="#ico-latex-dark" x="172" y="4" width="44" height="44"/>
     <use href="#ico-matlab-dark" x="228" y="4" width="44" height="44"/>
     <use href="#ico-arch-dark" x="284" y="4" width="44" height="44"/>
-    <use href="#ico-elastic-dark" x="340" y="4" width="44" height="44"/>
+    <use href="#ico-elasticsearch-dark" x="340" y="4" width="44" height="44"/>
     <use href="#ico-qdrant-dark" x="396" y="4" width="44" height="44"/>
     <use href="#ico-vscode-dark" x="452" y="4" width="44" height="44"/>
     <use href="#ico-uv-dark" x="508" y="4" width="44" height="44"/>
@@ -153,7 +153,7 @@
     <use href="#ico-latex-dark" x="620" y="4" width="44" height="44"/>
     <use href="#ico-matlab-dark" x="676" y="4" width="44" height="44"/>
     <use href="#ico-arch-dark" x="732" y="4" width="44" height="44"/>
-    <use href="#ico-elastic-dark" x="788" y="4" width="44" height="44"/>
+    <use href="#ico-elasticsearch-dark" x="788" y="4" width="44" height="44"/>
     <use href="#ico-qdrant-dark" x="844" y="4" width="44" height="44"/>
   </g>
 </svg>

@@ -1,59 +1,137 @@
-"""Build marquee SVGs from full-color icon assets.
+"""Build marquee SVGs from config in README.md.
 
-Embeds complete icon SVGs (gradients, multi-path, backgrounds) into
-animated marquee strips using <symbol> + <use> for efficiency.
-Generates separate dark/light theme variants per marquee row.
-Handles ID namespacing and CSS-to-inline conversion.
+Reads MARQUEE:CONFIG comment block from README, resolves icon files
+from assets/icons/ using case-insensitive fuzzy matching, generates
+animated marquee strips with dark/light theme variants, and updates
+the README with <picture> tags pointing to the generated files.
 """
 
 import re
+import shutil
+import sys
 import xml.etree.ElementTree as ET
 from pathlib import Path
 
-ICONS_DIR = Path(__file__).parent.parent / "assets" / "icons"
-OUTPUT_DIR = Path(__file__).parent.parent / "assets" / "marquees"
+ROOT = Path(__file__).parent.parent
+README = ROOT / "README.md"
+ICONS_DIR = ROOT / "assets" / "icons"
+OUTPUT_DIR = ROOT / "assets" / "marquees"
 
 ICON_SIZE = 44
 ICON_SPACING = 56
 SVG_HEIGHT = 52
 PADDING_Y = (SVG_HEIGHT - ICON_SIZE) // 2
 
-# ── Icon manifest ──────────────────────────────────────────────────────────
-# Each entry: (slug, dark_file, light_file)
-# Single-file icons use same filename for both. Dark/Light only where content differs.
 
-MARQUEE_AI = [
-    ("python",      "Python.svg",            "Python.svg"),
-    ("pytorch",     "PyTorch.svg",           "PyTorch.svg"),
-    ("tensorflow",  "TensorFlow.svg",        "TensorFlow.svg"),
-    ("huggingface", "Huggingface.svg",       "Huggingface.svg"),
-    ("numpy",       "Numpy.svg",             "Numpy.svg"),
-    ("jupyter",     "Jupyter-Dark.svg",      "Jupyter-Light.svg"),
-    ("anaconda",    "Anaconda.svg",          "Anaconda.svg"),
-    ("cuda",        "Cuda.svg",              "Cuda.svg"),
-]
+# ── Icon index ────────────────────────────────────────────────────────────
 
-MARQUEE_INFRA = [
-    ("docker",      "Docker.svg",            "Docker.svg"),
-    ("linux",       "Linux.svg",             "Linux.svg"),
-    ("bash",        "Bash-Dark.svg",         "Bash-Light.svg"),
-    ("powershell",  "Powershell.svg",        "Powershell.svg"),
-    ("git",         "Git.svg",               "Git.svg"),
-    ("github",      "Github-Dark.svg",       "Github-Light.svg"),
-    ("postgresql",  "PostgreSQL.svg",        "PostgreSQL.svg"),
-    ("django",      "Django.svg",            "Django.svg"),
-]
 
-MARQUEE_TOOLS = [
-    ("vscode",      "VSCode.svg",            "VSCode.svg"),
-    ("uv",          "Uv.svg",               "Uv.svg"),
-    ("claude",      "claude.svg",            "claude.svg"),
-    ("latex",       "LaTeX-Dark.svg",        "LaTeX-Light.svg"),
-    ("matlab",      "Matlab.svg",            "Matlab.svg"),
-    ("arch",        "Arch.svg",              "Arch.svg"),
-    ("elastic",     "Elasticsearch.svg",     "Elasticsearch.svg"),
-    ("qdrant",      "Qdrant.svg",            "Qdrant.svg"),
-]
+def build_icon_index(icons_dir: Path) -> dict[str, tuple[str, str]]:
+    """Build case-insensitive lookup from slug to (dark_file, light_file).
+
+    Scans the icons directory and groups files by base name (stripping
+    -Dark/-Light suffixes). Single-file icons map to the same filename
+    for both themes. When both a single file and dark/light variants
+    exist, the variants take precedence.
+    """
+    singles: dict[str, str] = {}
+    darks: dict[str, str] = {}
+    lights: dict[str, str] = {}
+
+    for f in sorted(icons_dir.glob("*.svg")):
+        name = f.stem  # e.g. "Bash-Dark", "Python", "microsoft-outlook"
+
+        if name.endswith("-Dark"):
+            base = name[:-5]  # strip "-Dark"
+            darks[base.lower()] = f.name
+        elif name.endswith("-Light"):
+            base = name[:-6]  # strip "-Light"
+            lights[base.lower()] = f.name
+        else:
+            singles[name.lower()] = f.name
+
+    index: dict[str, tuple[str, str]] = {}
+
+    # Add single-file icons (same file for both themes)
+    for key, filename in singles.items():
+        index[key] = (filename, filename)
+
+    # Override with dark/light variants where both exist
+    all_variant_keys = set(darks.keys()) | set(lights.keys())
+    for key in all_variant_keys:
+        dark = darks.get(key)
+        light = lights.get(key)
+        if dark and light:
+            index[key] = (dark, light)
+        elif dark:
+            # Only dark variant exists, use it for both
+            index[key] = (dark, dark)
+        elif light:
+            # Only light variant exists, use it for both
+            index[key] = (light, light)
+
+    return index
+
+
+# ── Config parsing ────────────────────────────────────────────────────────
+
+
+def parse_config(readme_text: str) -> list[tuple[str, str, list[str]]]:
+    """Parse MARQUEE:CONFIG block from README.
+
+    Returns list of (title, alt_text, icon_slugs) tuples.
+    """
+    match = re.search(
+        r"<!-- MARQUEE:CONFIG\s*\n(.*?)\n\s*MARQUEE:CONFIG -->",
+        readme_text,
+        re.DOTALL,
+    )
+    if not match:
+        print("ERROR: No MARQUEE:CONFIG block found in README.md")
+        sys.exit(1)
+
+    rows = []
+    for line in match.group(1).strip().splitlines():
+        line = line.strip()
+        if not line:
+            continue
+        parts = [p.strip() for p in line.split(",")]
+        if len(parts) < 3:
+            raise ValueError(
+                f"Invalid config line (need title,alt_text,icon1,...): {line}"
+            )
+        title, alt_text = parts[0], parts[1]
+        icon_slugs = parts[2:]
+        rows.append((title, alt_text, icon_slugs))
+
+    return rows
+
+
+def resolve_icons(
+    icon_slugs: list[str], icon_index: dict[str, tuple[str, str]]
+) -> list[tuple[str, str, str]]:
+    """Resolve icon slugs to (slug, dark_file, light_file) tuples."""
+    resolved = []
+    errors = []
+
+    for slug in icon_slugs:
+        key = slug.lower()
+        if key in icon_index:
+            dark, light = icon_index[key]
+            resolved.append((slug, dark, light))
+        else:
+            errors.append(slug)
+
+    if errors:
+        available = sorted(icon_index.keys())
+        print(f"ERROR: Unresolved icons: {', '.join(errors)}")
+        print(f"Available: {', '.join(available)}")
+        sys.exit(1)
+
+    return resolved
+
+
+# ── SVG processing (unchanged) ───────────────────────────────────────────
 
 
 def parse_svg(filepath: Path) -> ET.Element:
@@ -249,18 +327,50 @@ def build_marquee(
     print(f"  {output_path.name}: {num_icons} icons, {size_kb:.1f} KB")
 
 
+# ── README updating ──────────────────────────────────────────────────────
+
+
+def build_readme_block(
+    rows: list[tuple[str, str, list[str]]],
+) -> str:
+    """Generate the MARQUEE:START/END block with <picture> elements."""
+    parts = []
+    for title, alt_text, _icons in rows:
+        parts.append(
+            f"  <picture>\n"
+            f'    <source media="(prefers-color-scheme: dark)" '
+            f'srcset="assets/marquees/marquee-{title}-dark.svg" />\n'
+            f'    <img src="assets/marquees/marquee-{title}-light.svg" '
+            f'width="100%" alt="{alt_text}" />\n'
+            f"  </picture>"
+        )
+    inner = "\n  <br />\n".join(parts)
+    return f"<!-- MARQUEE:START -->\n{inner}\n<!-- MARQUEE:END -->"
+
+
+# ── Main ─────────────────────────────────────────────────────────────────
+
+
 def main():
-    """Build all marquee SVGs."""
+    """Build all marquee SVGs from README config."""
     print("Building marquee SVGs...")
     print()
 
-    rows = [
-        (MARQUEE_AI, "scroll-left", "left", 30, "marquee-ai"),
-        (MARQUEE_INFRA, "scroll-right", "right", 35, "marquee-infra"),
-        (MARQUEE_TOOLS, "scroll-left-tools", "left", 28, "marquee-tools"),
-    ]
+    readme_text = README.read_text(encoding="utf-8")
+    rows = parse_config(readme_text)
+    icon_index = build_icon_index(ICONS_DIR)
 
-    for icons, anim_name, direction, duration, basename in rows:
+    # Clean output directory
+    if OUTPUT_DIR.exists():
+        shutil.rmtree(OUTPUT_DIR)
+    OUTPUT_DIR.mkdir(parents=True)
+
+    for i, (title, _alt_text, icon_slugs) in enumerate(rows):
+        icons = resolve_icons(icon_slugs, icon_index)
+        direction = "left" if i % 2 == 0 else "right"
+        duration = int(len(icons) * 3.5)
+        anim_name = f"scroll-{title}"
+
         for theme in ("dark", "light"):
             build_marquee(
                 icons,
@@ -268,8 +378,18 @@ def main():
                 animation_name=anim_name,
                 direction=direction,
                 duration=duration,
-                output_path=OUTPUT_DIR / f"{basename}-{theme}.svg",
+                output_path=OUTPUT_DIR / f"marquee-{title}-{theme}.svg",
             )
+
+    # Update README
+    new_block = build_readme_block(rows)
+    updated = re.sub(
+        r"<!-- MARQUEE:START -->.*?<!-- MARQUEE:END -->",
+        new_block,
+        readme_text,
+        flags=re.DOTALL,
+    )
+    README.write_text(updated, encoding="utf-8")
 
     print()
     print("Done.")

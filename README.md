@@ -34,7 +34,13 @@
 ---
 
 <!-- Skills Marquees -->
+<!-- MARQUEE:CONFIG
+ai,AI and ML tools,python,pytorch,tensorflow,huggingface,numpy,jupyter,anaconda,cuda
+infra,Engineering and infrastructure tools,docker,linux,bash,powershell,git,github,postgresql,django
+tools,Tooling and documentation,vscode,uv,claude,latex,matlab,arch,elasticsearch,qdrant
+MARQUEE:CONFIG -->
 <div align="center">
+<!-- MARQUEE:START -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/marquees/marquee-ai-dark.svg" />
     <img src="assets/marquees/marquee-ai-light.svg" width="100%" alt="AI and ML tools" />
@@ -49,6 +55,7 @@
     <source media="(prefers-color-scheme: dark)" srcset="assets/marquees/marquee-tools-dark.svg" />
     <img src="assets/marquees/marquee-tools-light.svg" width="100%" alt="Tooling and documentation" />
   </picture>
+<!-- MARQUEE:END -->
 </div>
 
 ---

@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 52" fill="none">
   <style>
-    @keyframes scroll-right {
+    @keyframes scroll-infra {
       from { transform: translateX(-448px); }
       to { transform: translateX(0px); }
     }
     .marquee {
-      animation: scroll-right 35s linear infinite;
+      animation: scroll-infra 28s linear infinite;
     }
   </style>
 

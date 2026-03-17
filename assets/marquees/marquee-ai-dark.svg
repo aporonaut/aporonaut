@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 52" fill="none">
   <style>
-    @keyframes scroll-left {
+    @keyframes scroll-ai {
       from { transform: translateX(0px); }
       to { transform: translateX(-448px); }
     }
     .marquee {
-      animation: scroll-left 30s linear infinite;
+      animation: scroll-ai 28s linear infinite;
     }
   </style>
 
