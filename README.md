@@ -66,11 +66,11 @@ MARQUEE:CONFIG -->
   <br /><br />
   <!-- FOCUS:CONFIG
   claude,D97757,ccForge,Structured templates and guidance for personalizing Claude Code
+  letterboxd,00E054,Ananym,Multilingual anagram engine decomposing names into meaningful n-gram words
+  d3,F9A03C,Dynamic Family Tree,Interactive genealogy rendered as a traversable olive tree
   neo4j,4581C3,Heuristic Advising Algorithm,Graph-driven course scheduling through coloring matching and clustering
   arduino,00878F,Grey Wolf Optimizer MCU,Grey Wolf metaheuristic implemented on FPGA
-  letterboxd,00E054,Ananym,Multilingual anagram engine decomposing names into meaningful n-gram words
   researchgate,00CCBB,Ant Colony Optimization,Novel multi-objective swarm optimization research
-  d3,F9A03C,Dynamic Family Tree,Interactive genealogy rendered as a traversable olive tree
   sagemath,3333FF,Graph Crossing,Dimensional graph unfolding modeled through billiard dynamics
   coursera,0056D2,AI Certifications,Pursuing certifications and deepening applied research
   archlinux,1793D1,Arch Linux,Switching to Arch Linux from Windows
