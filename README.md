@@ -165,11 +165,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=2r2rk1/1bpnqppp/p2bp3/1p6/3P1P2/2N1PN2/PPQ2PBP/R2R2K1%20w%20-%20-%200%2014&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=2r2rk1/1bpnqppp/p2bp3/1p6/3P1P2/2N1PN2/PPQ2PBP/R2R2K1%20w%20-%20-%200%2014&board=brown&piece=neo&size=3" alt="Double-crosser" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=5r2/1R6/3p1qnk/2p3pp/3bP3/6PP/4QBB1/6K1%20w%20-%20-%200%2035&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=5r2/1R6/3p1qnk/2p3pp/3bP3/6PP/4QBB1/6K1%20w%20-%20-%200%2035&board=brown&piece=neo&size=3" alt="Checkmating a World Champion" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-03-17"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-03-18"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
