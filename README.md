@@ -77,15 +77,15 @@ MARQUEE:CONFIG -->
   FOCUS:CONFIG -->
   <!-- FOCUS:START -->
   <p>
-    <a><img src="assets/focus/ccforge.svg" alt="ccForge | Structured templates and guidance for personalizing Claude Code" /></a><br /><br />
-    <a><img src="assets/focus/ananym.svg" alt="Ananym | Multilingual anagram engine decomposing names into meaningful n-gram words" /></a><br /><br />
-    <a><img src="assets/focus/dynamic-family-tree.svg" alt="Dynamic Family Tree | Interactive genealogy rendered as a traversable olive tree" /></a><br /><br />
-    <a><img src="assets/focus/heuristic-advising-algorithm.svg" alt="Heuristic Advising Algorithm | Graph-driven course scheduling through coloring matching and clustering" /></a><br /><br />
-    <a><img src="assets/focus/grey-wolf-optimizer-mcu.svg" alt="Grey Wolf Optimizer MCU | Grey Wolf metaheuristic implemented on FPGA" /></a><br /><br />
-    <a><img src="assets/focus/ant-colony-optimization.svg" alt="Ant Colony Optimization | Novel multi-objective swarm optimization research" /></a><br /><br />
-    <a><img src="assets/focus/graph-crossing.svg" alt="Graph Crossing | Dimensional graph unfolding modeled through billiard dynamics" /></a><br /><br />
-    <a><img src="assets/focus/ai-certifications.svg" alt="AI Certifications | Pursuing certifications and deepening applied research" /></a><br /><br />
-    <a><img src="assets/focus/arch-linux.svg" alt="Arch Linux | Switching to Arch Linux from Windows" /></a>
+    <img src="assets/focus/ccforge.svg" alt="ccForge | Structured templates and guidance for personalizing Claude Code" /><br /><br />
+    <img src="assets/focus/ananym.svg" alt="Ananym | Multilingual anagram engine decomposing names into meaningful n-gram words" /><br /><br />
+    <img src="assets/focus/dynamic-family-tree.svg" alt="Dynamic Family Tree | Interactive genealogy rendered as a traversable olive tree" /><br /><br />
+    <img src="assets/focus/heuristic-advising-algorithm.svg" alt="Heuristic Advising Algorithm | Graph-driven course scheduling through coloring matching and clustering" /><br /><br />
+    <img src="assets/focus/grey-wolf-optimizer-mcu.svg" alt="Grey Wolf Optimizer MCU | Grey Wolf metaheuristic implemented on FPGA" /><br /><br />
+    <img src="assets/focus/ant-colony-optimization.svg" alt="Ant Colony Optimization | Novel multi-objective swarm optimization research" /><br /><br />
+    <img src="assets/focus/graph-crossing.svg" alt="Graph Crossing | Dimensional graph unfolding modeled through billiard dynamics" /><br /><br />
+    <img src="assets/focus/ai-certifications.svg" alt="AI Certifications | Pursuing certifications and deepening applied research" /><br /><br />
+    <img src="assets/focus/arch-linux.svg" alt="Arch Linux | Switching to Arch Linux from Windows" />
   </p>
 <!-- FOCUS:END -->
 </div>
