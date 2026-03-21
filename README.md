@@ -2,9 +2,9 @@
 
 <!-- Main Header -->
 <div align="center">
-  <a><img src="https://github.com/user-attachments/assets/1cefab81-5270-4220-a074-7575f9e8656c" alt="AlAnsari" /></a>
+  <picture><img src="https://github.com/user-attachments/assets/1cefab81-5270-4220-a074-7575f9e8656c" alt="AlAnsari" /></picture>
   <br /><br />
-  <a><img alt="Typing SVG" src="https://readme-typing-svg.demolab.com/?lines=Computer+Engineer;Mathematician;Researcher;AI+Artificer&font=Fira+Code&size=22&pause=1500&duration=4000&color=D45113&center=true&vCenter=true&width=500&height=45" /></a>
+  <picture><img alt="Typing SVG" src="https://readme-typing-svg.demolab.com/?lines=Computer+Engineer;Mathematician;Researcher;AI+Artificer&font=Fira+Code&size=22&pause=1500&duration=4000&color=D45113&center=true&vCenter=true&width=500&height=45" /></picture>
   <br />
   <b>Algorithms, formalization, and the architecture of intelligence.</b>
 </div>
@@ -17,7 +17,7 @@
 
 <!-- Origin Story -->
 <p align="center">
-    <a><img src="assets/headers/why-ai-marker.svg" alt="Why AI?" height="36" /></a>
+    <picture><img src="assets/headers/why-ai-marker.svg" alt="Why AI?" height="36" /></picture>
 </p>
 <p align="center">
     <em>At eight years old, I stopped mid-play to wonder: if I have to speak on
@@ -62,7 +62,7 @@ MARQUEE:CONFIG -->
 
 <!-- Current Focus -->
 <div align="center">
-  <a><img src="assets/headers/current-focus-header.svg" alt="Currently working on..." height="35" /></a>
+  <picture><img src="assets/headers/current-focus-header.svg" alt="Currently working on..." height="35" /></picture>
   <br /><br />
   <!-- FOCUS:CONFIG
   claude,D97757,ccForge,Structured templates and guidance for personalizing Claude Code
@@ -77,15 +77,15 @@ MARQUEE:CONFIG -->
   FOCUS:CONFIG -->
   <!-- FOCUS:START -->
   <p>
-    <a><img src="assets/focus/ccforge.svg" alt="ccForge | Structured templates and guidance for personalizing Claude Code" /></a><br /><br />
-    <a><img src="assets/focus/ananym.svg" alt="Ananym | Multilingual anagram engine decomposing names into meaningful n-gram words" /></a><br /><br />
-    <a><img src="assets/focus/dynamic-family-tree.svg" alt="Dynamic Family Tree | Interactive genealogy rendered as a traversable olive tree" /></a><br /><br />
-    <a><img src="assets/focus/heuristic-advising-algorithm.svg" alt="Heuristic Advising Algorithm | Graph-driven course scheduling through coloring matching and clustering" /></a><br /><br />
-    <a><img src="assets/focus/grey-wolf-optimizer-mcu.svg" alt="Grey Wolf Optimizer MCU | Grey Wolf metaheuristic implemented on FPGA" /></a><br /><br />
-    <a><img src="assets/focus/ant-colony-optimization.svg" alt="Ant Colony Optimization | Novel multi-objective swarm optimization research" /></a><br /><br />
-    <a><img src="assets/focus/graph-crossing.svg" alt="Graph Crossing | Dimensional graph unfolding modeled through billiard dynamics" /></a><br /><br />
-    <a><img src="assets/focus/ai-certifications.svg" alt="AI Certifications | Pursuing certifications and deepening applied research" /></a><br /><br />
-    <a><img src="assets/focus/arch-linux.svg" alt="Arch Linux | Switching to Arch Linux from Windows" /></a>
+    <picture><img src="assets/focus/ccforge.svg" alt="ccForge | Structured templates and guidance for personalizing Claude Code" /></picture><br /><br />
+    <picture><img src="assets/focus/ananym.svg" alt="Ananym | Multilingual anagram engine decomposing names into meaningful n-gram words" /></picture><br /><br />
+    <picture><img src="assets/focus/dynamic-family-tree.svg" alt="Dynamic Family Tree | Interactive genealogy rendered as a traversable olive tree" /></picture><br /><br />
+    <picture><img src="assets/focus/heuristic-advising-algorithm.svg" alt="Heuristic Advising Algorithm | Graph-driven course scheduling through coloring matching and clustering" /></picture><br /><br />
+    <picture><img src="assets/focus/grey-wolf-optimizer-mcu.svg" alt="Grey Wolf Optimizer MCU | Grey Wolf metaheuristic implemented on FPGA" /></picture><br /><br />
+    <picture><img src="assets/focus/ant-colony-optimization.svg" alt="Ant Colony Optimization | Novel multi-objective swarm optimization research" /></picture><br /><br />
+    <picture><img src="assets/focus/graph-crossing.svg" alt="Graph Crossing | Dimensional graph unfolding modeled through billiard dynamics" /></picture><br /><br />
+    <picture><img src="assets/focus/ai-certifications.svg" alt="AI Certifications | Pursuing certifications and deepening applied research" /></picture><br /><br />
+    <picture><img src="assets/focus/arch-linux.svg" alt="Arch Linux | Switching to Arch Linux from Windows" /></picture>
   </p>
 <!-- FOCUS:END -->
 </div>
@@ -159,7 +159,7 @@ MARQUEE:CONFIG -->
 
 <!-- Personalized Cards -->
 <p align="center">
-  <a><img src="assets/headers/personalized-header.svg" alt="Beyond the Code" height="35" /></a>
+  <picture><img src="assets/headers/personalized-header.svg" alt="Beyond the Code" height="35" /></picture>
 </p>
 
 <!-- CHESS_PUZZLE:START -->
@@ -200,7 +200,7 @@ MARQUEE:CONFIG -->
 
 <!-- Social Links -->
 <p align="center">
-  <a><img src="assets/headers/social-links-header.svg" alt="Social Links" height="35" /></a>
+  <picture><img src="assets/headers/social-links-header.svg" alt="Social Links" height="35" /></picture>
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/aaron-alansari/"><img src="assets/icons/LinkedIn.svg" alt="LinkedIn" height="42" hspace="4" /></a>
@@ -209,8 +209,8 @@ MARQUEE:CONFIG -->
   <a href="https://link.chess.com/friend/aYjKnF"><img src="assets/icons/chesscom.svg" alt="Chess.com" height="42" hspace="4" /></a>
 </p>
 <p align="center">
-  <a><img src="https://komarev.com/ghpvc/?username=aporonaut&color=D45113&style=flat&label=Profile+Views" alt="Profile Views" /></a>
+  <picture><img src="https://komarev.com/ghpvc/?username=aporonaut&color=D45113&style=flat&label=Profile+Views" alt="Profile Views" /></picture>
 </p>
 
 <!-- Footer -->
-<a><img src="https://capsule-render.vercel.app/api?type=waving&color=414a2c&height=120&section=footer" width="100%" alt="" /></a>
+<picture><img src="https://capsule-render.vercel.app/api?type=waving&color=414a2c&height=120&section=footer" width="100%" alt="" /></picture>

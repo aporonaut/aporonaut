@@ -234,11 +234,11 @@ def parse_config(readme_text: str) -> list[tuple[str, str, str, str]]:
 
 
 def build_readme_block(items: list[tuple[str, str, str, str]], filenames: list[str]) -> str:
-    """Generate the HTML block with <img> tags for the README."""
+    """Generate the HTML block with <picture><img> tags for the README."""
     lines = []
     for (_slug, _color, name, tagline), filename in zip(items, filenames):
         alt = f"{name} | {tagline}"
-        lines.append(f'    <img src="assets/focus/{filename}" alt="{alt}" />')
+        lines.append(f'    <picture><img src="assets/focus/{filename}" alt="{alt}" /></picture>')
     inner = "<br /><br />\n".join(lines)
     return f"<!-- FOCUS:START -->\n  <p>\n{inner}\n  </p>\n<!-- FOCUS:END -->"
 
