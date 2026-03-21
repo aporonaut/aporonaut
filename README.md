@@ -165,11 +165,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=3rr1k1/pp3ppp/1b3q2/3p4/Q7/1PN2BPb/PB3P1P/R3R1K1%20b%20-%20-%200%201&board=walnut&piece=neo&size=3&flip=true" />
-        <img src="https://www.chess.com/dynboard?fen=3rr1k1/pp3ppp/1b3q2/3p4/Q7/1PN2BPb/PB3P1P/R3R1K1%20b%20-%20-%200%201&board=brown&piece=neo&size=3&flip=true" alt="Blindsided" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=2r3k1/4b3/2nnN3/p2p1bPQ/Pq5p/7P/PB4P1/5R1K%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=2r3k1/4b3/2nnN3/p2p1bPQ/Pq5p/7P/PB4P1/5R1K%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="The Last Straw" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-03-19"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-03-20"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
