@@ -165,11 +165,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=1k5r/p1p2p2/1p4pr/1PbB1n2/8/q1P2Q1P/3R1PK1/3R1N2%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=1k5r/p1p2p2/1p4pr/1PbB1n2/8/q1P2Q1P/3R1PK1/3R1N2%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="You Want to Move Where?!" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=8/8/8/8/1p2N1K1/8/5Q2/2qk4%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=8/8/8/8/1p2N1K1/8/5Q2/2qk4%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Powerful King in the Endgame" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-03-21"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-03-22"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
