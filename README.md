@@ -165,11 +165,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=2r2bk1/R7/1p6/3N3p/5pbP/8/5PP1/6K1%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=2r2bk1/R7/1p6/3N3p/5pbP/8/5PP1/6K1%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Sideswipe" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=7k/1b6/p1q2P1p/1p4r1/PP6/1B2N1PP/1B1P3K/8%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=7k/1b6/p1q2P1p/1p4r1/PP6/1B2N1PP/1B1P3K/8%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Spring It On!" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-03-23"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-03-24"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
