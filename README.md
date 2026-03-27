@@ -165,11 +165,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=1r4k1/2p3pp/p7/bq1Np3/4P1P1/5R2/PP6/K6R%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=1r4k1/2p3pp/p7/bq1Np3/4P1P1/5R2/PP6/K6R%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Anastasia's Forcing Moves" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=5r1k/p2q1p1p/5b2/5N1Q/Pr1npP2/R7/1PP3PP/5R1K%20w%20-%20-%200%2028&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=5r1k/p2q1p1p/5b2/5N1Q/Pr1npP2/R7/1PP3PP/5R1K%20w%20-%20-%200%2028&board=brown&piece=neo&size=3" alt="Supercharge!" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-03-25"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-03-26"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
