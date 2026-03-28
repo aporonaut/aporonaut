@@ -165,11 +165,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=5r1k/p2q1p1p/5b2/5N1Q/Pr1npP2/R7/1PP3PP/5R1K%20w%20-%20-%200%2028&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=5r1k/p2q1p1p/5b2/5N1Q/Pr1npP2/R7/1PP3PP/5R1K%20w%20-%20-%200%2028&board=brown&piece=neo&size=3" alt="Supercharge!" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=3r1kr1/Q1p4p/1p3b2/1P3n2/B4P2/2P5/7P/R3K2R%20b%20KQ%20-%200%2022&board=walnut&piece=neo&size=3&flip=true" />
+        <img src="https://www.chess.com/dynboard?fen=3r1kr1/Q1p4p/1p3b2/1P3n2/B4P2/2P5/7P/R3K2R%20b%20KQ%20-%200%2022&board=brown&piece=neo&size=3&flip=true" alt="Calling All Pieces!" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-03-26"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-03-27"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
