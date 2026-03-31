@@ -165,11 +165,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=8/3p3p/2k3pP/5P2/8/1P2B3/4KPr1/8%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=8/3p3p/2k3pP/5P2/8/1P2B3/4KPr1/8%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="No Ranks, No Files" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=5r2/pp3k1p/5r2/q1p2Q1n/3P4/2P3R1/PP3PP1/1K6%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=5r2/pp3k1p/5r2/q1p2Q1n/3P4/2P3R1/PP3PP1/1K6%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Feeling the Squeeze" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-03-29"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-03-30"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
