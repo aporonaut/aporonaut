@@ -165,11 +165,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=5r2/pp3k1p/5r2/q1p2Q1n/3P4/2P3R1/PP3PP1/1K6%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=5r2/pp3k1p/5r2/q1p2Q1n/3P4/2P3R1/PP3PP1/1K6%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Feeling the Squeeze" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=8/5r2/8/8/kp3p1B/2q5/4Q2P/1K6%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=8/5r2/8/8/kp3p1B/2q5/4Q2P/1K6%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Triangular Surprise" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-03-30"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-03-31"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
