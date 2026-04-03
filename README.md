@@ -165,11 +165,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=2r4k/2p3pp/1p3n2/6N1/p1Q5/P1NP4/KP4PP/5q2%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=2r4k/2p3pp/1p3n2/6N1/p1Q5/P1NP4/KP4PP/5q2%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Not a Smothered Mate 😉" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=8/8/4K1p1/5p2/p2k2PP/5P2/8/8%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=8/8/4K1p1/5p2/p2k2PP/5P2/8/8%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="When Push Comes to Capture" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-04-01"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-04-02"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
