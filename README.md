@@ -165,11 +165,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=8/8/4K1p1/5p2/p2k2PP/5P2/8/8%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=8/8/4K1p1/5p2/p2k2PP/5P2/8/8%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="When Push Comes to Capture" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=4r1k1/4q2p/2p3p1/1bN1np2/1P1Q4/6P1/5PBP/2R3K1%20b%20-%20-%200%2026&board=walnut&piece=neo&size=3&flip=true" />
+        <img src="https://www.chess.com/dynboard?fen=4r1k1/4q2p/2p3p1/1bN1np2/1P1Q4/6P1/5PBP/2R3K1%20b%20-%20-%200%2026&board=brown&piece=neo&size=3&flip=true" alt="Flashy Blitz Tactic ⚡" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-04-02"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-04-03"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
