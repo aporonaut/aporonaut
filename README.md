@@ -165,11 +165,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=4r1k1/4q2p/2p3p1/1bN1np2/1P1Q4/6P1/5PBP/2R3K1%20b%20-%20-%200%2026&board=walnut&piece=neo&size=3&flip=true" />
-        <img src="https://www.chess.com/dynboard?fen=4r1k1/4q2p/2p3p1/1bN1np2/1P1Q4/6P1/5PBP/2R3K1%20b%20-%20-%200%2026&board=brown&piece=neo&size=3&flip=true" alt="Flashy Blitz Tactic ⚡" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=2k5/6p1/1p2npB1/pb6/3r2Pp/P3K2P/1PPR4/5N2%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=2k5/6p1/1p2npB1/pb6/3r2Pp/P3K2P/1PPR4/5N2%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Tractor Beam" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-04-03"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-04-04"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
