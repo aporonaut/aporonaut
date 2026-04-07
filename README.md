@@ -165,11 +165,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=2r3k1/4b3/2nnN3/p2p1bPQ/Pq5p/7P/PB4P1/5R1K%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=2r3k1/4b3/2nnN3/p2p1bPQ/Pq5p/7P/PB4P1/5R1K%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="The Last Straw" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=8/8/8/2q5/8/5r2/5R2/2k1K2R%20w%20K%20-%200%201&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=8/8/8/2q5/8/5r2/5R2/2k1K2R%20w%20K%20-%200%201&board=brown&piece=neo&size=3" alt="Early and Often? 🤔" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-03-20"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-04-06"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
