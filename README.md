@@ -134,9 +134,9 @@ MARQUEE:CONFIG -->
     <!-- GitHub Pinned Repo -->
     <td width="50%">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-xi-livid-12.vercel.app/api/pin/?username=aporonaut&repo=Envoke&hide_border=true&bg_color=0d1117&title_color=D45113&text_color=9e9e9e&icon_color=D45113" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-xi-livid-12.vercel.app/api/pin/?username=aporonaut&repo=Envoke&hide_border=true&bg_color=ffffff&title_color=D45113&text_color=333333&icon_color=D45113" />
-        <img alt="Envoke" src="https://github-readme-stats-xi-livid-12.vercel.app/api/pin/?username=aporonaut&repo=Envoke&hide_border=true" width="100%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-xi-livid-12.vercel.app/api/pin/?username=aporonaut&repo=Loupe&hide_border=true&bg_color=0d1117&title_color=D45113&text_color=9e9e9e&icon_color=D45113" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-xi-livid-12.vercel.app/api/pin/?username=aporonaut&repo=Loupe&hide_border=true&bg_color=ffffff&title_color=D45113&text_color=333333&icon_color=D45113" />
+        <img alt="Loupe" src="https://github-readme-stats-xi-livid-12.vercel.app/api/pin/?username=aporonaut&repo=Loupe&hide_border=true" width="100%" />
       </picture>
     </td>
   </tr>
