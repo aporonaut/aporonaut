@@ -11,7 +11,7 @@ Thumbs.db
 .vscode/
 
 # Reference docs (not part of the profile)
-GUIDE.md
+docs/
 
 # Original icons (pre-recolor)
 assets/icons_og/

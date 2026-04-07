@@ -98,9 +98,9 @@ MARQUEE:CONFIG -->
     <!-- GitHub Stats -->
     <td width="50%">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=aporonaut&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=D45113&text_color=9e9e9e&icon_color=D45113&custom_title=GitHub%20Stats" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=aporonaut&show_icons=true&include_all_commits=true&hide_border=true&bg_color=ffffff&title_color=D45113&text_color=333333&icon_color=D45113&custom_title=GitHub%20Stats" />
-        <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aporonaut&show_icons=true&include_all_commits=true&hide_border=true&custom_title=GitHub%20Stats" width="100%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-xi-livid-12.vercel.app/api?username=aporonaut&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=D45113&text_color=9e9e9e&icon_color=D45113&custom_title=GitHub%20Stats" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-xi-livid-12.vercel.app/api?username=aporonaut&show_icons=true&include_all_commits=true&hide_border=true&bg_color=ffffff&title_color=D45113&text_color=333333&icon_color=D45113&custom_title=GitHub%20Stats" />
+        <img alt="GitHub Stats" src="https://github-readme-stats-xi-livid-12.vercel.app/api?username=aporonaut&show_icons=true&include_all_commits=true&hide_border=true&custom_title=GitHub%20Stats" width="100%" />
       </picture>
     </td>
     <!-- GitHub Streak -->
@@ -126,17 +126,17 @@ MARQUEE:CONFIG -->
     <!-- GitHub Languages -->
     <td width="50%">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aporonaut&layout=compact&hide_border=true&bg_color=0d1117&title_color=D45113&text_color=9e9e9e&icon_color=D45113" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aporonaut&layout=compact&hide_border=true&bg_color=ffffff&title_color=D45113&text_color=333333&icon_color=D45113" />
-        <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aporonaut&layout=compact&hide_border=true" width="100%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-xi-livid-12.vercel.app/api/top-langs/?username=aporonaut&layout=compact&hide_border=true&bg_color=0d1117&title_color=D45113&text_color=9e9e9e&icon_color=D45113" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-xi-livid-12.vercel.app/api/top-langs/?username=aporonaut&layout=compact&hide_border=true&bg_color=ffffff&title_color=D45113&text_color=333333&icon_color=D45113" />
+        <img alt="Top Languages" src="https://github-readme-stats-xi-livid-12.vercel.app/api/top-langs/?username=aporonaut&layout=compact&hide_border=true" width="100%" />
       </picture>
     </td>
     <!-- GitHub Pinned Repo -->
     <td width="50%">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=aporonaut&repo=Envoke&hide_border=true&bg_color=0d1117&title_color=D45113&text_color=9e9e9e&icon_color=D45113" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=aporonaut&repo=Envoke&hide_border=true&bg_color=ffffff&title_color=D45113&text_color=333333&icon_color=D45113" />
-        <img alt="Envoke" src="https://github-readme-stats.vercel.app/api/pin/?username=aporonaut&repo=Envoke&hide_border=true" width="100%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-xi-livid-12.vercel.app/api/pin/?username=aporonaut&repo=Envoke&hide_border=true&bg_color=0d1117&title_color=D45113&text_color=9e9e9e&icon_color=D45113" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-xi-livid-12.vercel.app/api/pin/?username=aporonaut&repo=Envoke&hide_border=true&bg_color=ffffff&title_color=D45113&text_color=333333&icon_color=D45113" />
+        <img alt="Envoke" src="https://github-readme-stats-xi-livid-12.vercel.app/api/pin/?username=aporonaut&repo=Envoke&hide_border=true" width="100%" />
       </picture>
     </td>
   </tr>
