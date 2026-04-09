@@ -167,11 +167,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=2R4r/1B3pbk/p3p3/4P1P1/1p6/8/8/6K1%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=2R4r/1B3pbk/p3p3/4P1P1/1p6/8/8/6K1%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Capture? Hard Pass!" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=2r3k1/1p4bp/3p4/5Np1/p1qP4/P5P1/1P3QBP/K1n2R2%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=2r3k1/1p4bp/3p4/5Np1/p1qP4/P5P1/1P3QBP/K1n2R2%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Interception!" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-04-07"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-04-08"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
