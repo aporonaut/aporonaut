@@ -167,11 +167,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=3r1rk1/pp1q1p2/1np2n1p/3p1bp1/3P4/1P3QP1/P2BPNBP/3R1RK1%20w%20-%20-%200%2018&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=3r1rk1/pp1q1p2/1np2n1p/3p1bp1/3P4/1P3QP1/P2BPNBP/3R1RK1%20w%20-%20-%200%2018&board=brown&piece=neo&size=3" alt="I'll Sit This One Out" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=3Q4/2r3k1/5pp1/1p3p1p/pP1PnN1P/4q1P1/2r2P1K/3R1R2%20w%20-%20-%200%2039&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=3Q4/2r3k1/5pp1/1p3p1p/pP1PnN1P/4q1P1/2r2P1K/3R1R2%20w%20-%20-%200%2039&board=brown&piece=neo&size=3" alt="Don't Horse Around" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-04-09"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-04-10"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
