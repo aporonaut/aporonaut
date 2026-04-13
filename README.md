@@ -167,11 +167,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=5k2/p4p2/P3p2q/3pK3/3P2Qp/3P3P/7P/8%20b%20-%20-%200%201&board=walnut&piece=neo&size=3&flip=true" />
-        <img src="https://www.chess.com/dynboard?fen=5k2/p4p2/P3p2q/3pK3/3P2Qp/3P3P/7P/8%20b%20-%20-%200%201&board=brown&piece=neo&size=3&flip=true" alt="Take On Me" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=2r2br1/pp2np2/2q1b3/2NpPp1k/P2P1Ppp/1RR5/1P2N1PP/4Q1K1%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=2r2br1/pp2np2/2q1b3/2NpPp1k/P2P1Ppp/1RR5/1P2N1PP/4Q1K1%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Heavy is the Crown" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-04-11"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-04-12"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
