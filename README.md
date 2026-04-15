@@ -167,11 +167,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=4rb1k/1p4p1/6Qp/pq6/3B4/1B4PP/P5K1/2r5%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=4rb1k/1p4p1/6Qp/pq6/3B4/1B4PP/P5K1/2r5%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Not a Queen Sacrifice 😎" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=r5k1/1p3pp1/2p4p/q4N1R/2P1P1P1/1P6/2P4Q/R1K5%20b%20-%20-%200%201&board=walnut&piece=neo&size=3&flip=true" />
+        <img src="https://www.chess.com/dynboard?fen=r5k1/1p3pp1/2p4p/q4N1R/2P1P1P1/1P6/2P4Q/R1K5%20b%20-%20-%200%201&board=brown&piece=neo&size=3&flip=true" alt="Marshmellow Experiment" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-04-13"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-04-14"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
