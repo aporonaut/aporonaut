@@ -167,11 +167,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=8/4qk2/3pnr1Q/3Pp3/p2nP3/8/1P6/6RK%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=8/4qk2/3pnr1Q/3Pp3/p2nP3/8/1P6/6RK%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Checkmate and Taxes" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=8/2p5/4p2p/q1p2p1P/P1P1pk1K/8/3P2P1/1Q6%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=8/2p5/4p2p/q1p2p1P/P1P1pk1K/8/3P2P1/1Q6%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Mousetrap" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-04-15"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-04-16"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
