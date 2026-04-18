@@ -167,11 +167,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=8/2p5/4p2p/q1p2p1P/P1P1pk1K/8/3P2P1/1Q6%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=8/2p5/4p2p/q1p2p1P/P1P1pk1K/8/3P2P1/1Q6%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Mousetrap" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=r7/4bkp1/Bp3p2/8/Q1p3pR/Nn1q2B1/1P3P2/4K2R%20b%20K%20-%200%201&board=walnut&piece=neo&size=3&flip=true" />
+        <img src="https://www.chess.com/dynboard?fen=r7/4bkp1/Bp3p2/8/Q1p3pR/Nn1q2B1/1P3P2/4K2R%20b%20K%20-%200%201&board=brown&piece=neo&size=3&flip=true" alt="Here Comes the Sun" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-04-16"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-04-17"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
