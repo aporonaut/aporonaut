@@ -167,11 +167,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=8/3R3P/Pp3K2/8/8/2P2k2/8/1r5r%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=8/3R3P/Pp3K2/8/8/2P2k2/8/1r5r%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Jaw Dropping Sequel 🤩" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=7r/B4Kbk/8/3B4/6PP/8/p7/6r1%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=7r/B4Kbk/8/3B4/6PP/8/p7/6r1%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Bs are Buzzing!" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-04-19"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-04-20"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
