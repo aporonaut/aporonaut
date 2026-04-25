@@ -167,11 +167,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=r3r3/pp3k2/3b1p2/2p1nPp1/2R1P1n1/1N3B1P/PP2P3/3Q2K1%20b%20-%20-%200%2026&board=walnut&piece=neo&size=3&flip=true" />
-        <img src="https://www.chess.com/dynboard?fen=r3r3/pp3k2/3b1p2/2p1nPp1/2R1P1n1/1N3B1P/PP2P3/3Q2K1%20b%20-%20-%200%2026&board=brown&piece=neo&size=3&flip=true" alt="Hopscotch" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=2Q5/3n1p2/1b1p2pk/1b1Pp3/1P2P3/6NP/3N3K/q7%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=2Q5/3n1p2/1b1p2pk/1b1Pp3/1P2P3/6NP/3N3K/q7%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Knights Out" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-04-23"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-04-24"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
