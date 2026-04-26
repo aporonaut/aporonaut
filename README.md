@@ -167,11 +167,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=2Q5/3n1p2/1b1p2pk/1b1Pp3/1P2P3/6NP/3N3K/q7%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=2Q5/3n1p2/1b1p2pk/1b1Pp3/1P2P3/6NP/3N3K/q7%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Knights Out" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=r3kr2/p2ppp2/2p2nn1/B2N4/2P4q/Q6p/2BP3P/5RK1%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=r3kr2/p2ppp2/2p2nn1/B2N4/2P4q/Q6p/2BP3P/5RK1%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Walk the Rank, Matey 🏴‍☠️" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-04-24"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-04-25"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
