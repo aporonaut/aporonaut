@@ -167,11 +167,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=8/1p6/q7/1N3k1K/8/3P4/8/4R3%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=8/1p6/q7/1N3k1K/8/3P4/8/4R3%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Escorted to Center Stage" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=6k1/5qp1/7p/r1pQ1p2/P7/2b3P1/2P2P1P/1R4K1%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=6k1/5qp1/7p/r1pQ1p2/P7/2b3P1/2P2P1P/1R4K1%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Forcing Moves Showdown" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-04-26"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-04-27"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
