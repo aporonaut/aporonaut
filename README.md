@@ -167,11 +167,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=6k1/5qp1/7p/r1pQ1p2/P7/2b3P1/2P2P1P/1R4K1%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=6k1/5qp1/7p/r1pQ1p2/P7/2b3P1/2P2P1P/1R4K1%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Forcing Moves Showdown" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=r1bqk2r/1pppn1pp/p2b4/1B1P1pN1/4p3/8/PPP2PPP/R1BQ1RK1%20w%20kq%20-%200%201&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=r1bqk2r/1pppn1pp/p2b4/1B1P1pN1/4p3/8/PPP2PPP/R1BQ1RK1%20w%20kq%20-%200%201&board=brown&piece=neo&size=3" alt="Sitting Duck" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-04-27"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-04-28"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
