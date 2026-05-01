@@ -167,11 +167,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=1k6/p7/pN1Pn1N1/2r2p2/2P2P2/P7/KQ5p/7q%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=1k6/p7/pN1Pn1N1/2r2p2/2P2P2/P7/KQ5p/7q%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Globetrotter" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=5Q2/p6p/1pq3p1/3n2k1/2p1n3/2P5/P3B1PP/6K1%20w%20-%20-%200%2030&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=5Q2/p6p/1pq3p1/3n2k1/2p1n3/2P5/P3B1PP/6K1%20w%20-%20-%200%2030&board=brown&piece=neo&size=3" alt="Anna Cramling's 🎂 Bash" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-04-29"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-04-30"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
