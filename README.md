@@ -167,11 +167,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=3r1r1k/pb1nN1pp/1p1p4/2nP1pP1/Pq6/5P1Q/1P1R2P1/2R2BK1%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=3r1r1k/pb1nN1pp/1p1p4/2nP1pP1/Pq6/5P1Q/1P1R2P1/2R2BK1%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Do You Even Lift, Bro?" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=1r1q1rk1/5p1p/bP4pQ/p2pP3/2nN1PBP/2P3P1/8/4K2R%20w%20-%20-%200%2025&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=1r1q1rk1/5p1p/bP4pQ/p2pP3/2nN1PBP/2P3P1/8/4K2R%20w%20-%20-%200%2025&board=brown&piece=neo&size=3" alt="Knock Knock" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-05-01"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-05-02"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
