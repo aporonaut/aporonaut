@@ -167,11 +167,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=r2qk2r/1pp2ppp/2n1b3/2b5/p2p4/P2P4/BP1N1PPP/R1BQ1RK1%20w%20kq%20-%200%201&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=r2qk2r/1pp2ppp/2n1b3/2b5/p2p4/P2P4/BP1N1PPP/R1BQ1RK1%20w%20kq%20-%200%201&board=brown&piece=neo&size=3" alt="Double Play" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=4q3/1pp5/2k1B3/p1P5/Pb2N2R/8/1K6/8%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=4q3/1pp5/2k1B3/p1P5/Pb2N2R/8/1K6/8%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Royal Dilemma" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-05-05"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-05-06"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
