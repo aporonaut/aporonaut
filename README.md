@@ -167,11 +167,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=4q3/1pp5/2k1B3/p1P5/Pb2N2R/8/1K6/8%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=4q3/1pp5/2k1B3/p1P5/Pb2N2R/8/1K6/8%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Royal Dilemma" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=6k1/2R2ppp/rn1Pp2n/1p6/1P1p1bP1/p2P1B1P/5PK1/8%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=6k1/2R2ppp/rn1Pp2n/1p6/1P1p1bP1/p2P1B1P/5PK1/8%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Stage Dive" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-05-06"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-05-07"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
