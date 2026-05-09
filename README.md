@@ -167,11 +167,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=6k1/2R2ppp/rn1Pp2n/1p6/1P1p1bP1/p2P1B1P/5PK1/8%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=6k1/2R2ppp/rn1Pp2n/1p6/1P1p1bP1/p2P1B1P/5PK1/8%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Stage Dive" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=3rrk2/p1p3bp/bpn3B1/3pp1P1/8/qPn2N1Q/P4B1P/2R2RK1%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=3rrk2/p1p3bp/bpn3B1/3pp1P1/8/qPn2N1Q/P4B1P/2R2RK1%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Don't Try This at Home" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-05-07"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-05-08"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
