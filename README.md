@@ -167,11 +167,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=5bk1/2p2p2/pp5p/3B1N2/P5pP/1Pq2p2/3Q1P1R/4K3%20b%20-%20-%200%201&board=walnut&piece=neo&size=3&flip=true" />
-        <img src="https://www.chess.com/dynboard?fen=5bk1/2p2p2/pp5p/3B1N2/P5pP/1Pq2p2/3Q1P1R/4K3%20b%20-%20-%200%201&board=brown&piece=neo&size=3&flip=true" alt="On the Back Foot" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=r1b1kb1r/pppq1ppp/1n6/3Bp1B1/6P1/2P2N1P/PPP2P2/R2QK2R%20w%20KQk%20-%200%201&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=r1b1kb1r/pppq1ppp/1n6/3Bp1B1/6P1/2P2N1P/PPP2P2/R2QK2R%20w%20KQk%20-%200%201&board=brown&piece=neo&size=3" alt="Chain Reaction Activated" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-05-12"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-05-14"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
