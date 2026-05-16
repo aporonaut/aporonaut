@@ -167,11 +167,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=r1b1kb1r/pppq1ppp/1n6/3Bp1B1/6P1/2P2N1P/PPP2P2/R2QK2R%20w%20KQk%20-%200%201&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=r1b1kb1r/pppq1ppp/1n6/3Bp1B1/6P1/2P2N1P/PPP2P2/R2QK2R%20w%20KQk%20-%200%201&board=brown&piece=neo&size=3" alt="Chain Reaction Activated" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=7k/6qp/3BP2N/P4p1P/8/8/K7/8%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=7k/6qp/3BP2N/P4p1P/8/8/K7/8%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Serving Humble Pie 🥧" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-05-14"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-05-15"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
