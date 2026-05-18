@@ -167,11 +167,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=2r1kbr1/3p2p1/1q1P4/p1n1pp2/1p6/nB1QB1Pp/P4PbK/2R5%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=2r1kbr1/3p2p1/1q1P4/p1n1pp2/1p6/nB1QB1Pp/P4PbK/2R5%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Tag, You're It!" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=7k/2Q3pp/2p5/1p6/1q3rbP/p1N5/P2R2PK/8%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=7k/2Q3pp/2p5/1p6/1q3rbP/p1N5/P2R2PK/8%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Between the Eyes 😵" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-05-16"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-05-17"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
