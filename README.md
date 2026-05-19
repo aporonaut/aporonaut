@@ -167,11 +167,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=7k/2Q3pp/2p5/1p6/1q3rbP/p1N5/P2R2PK/8%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=7k/2Q3pp/2p5/1p6/1q3rbP/p1N5/P2R2PK/8%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Between the Eyes 😵" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=3k4/2p2ppp/1p1p1q1b/5Q2/7P/2P1B1P1/1P3P2/6K1%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=3k4/2p2ppp/1p1p1q1b/5Q2/7P/2P1B1P1/1P3P2/6K1%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Overloaded" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-05-17"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-05-18"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
