@@ -167,11 +167,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=3k4/2p2ppp/1p1p1q1b/5Q2/7P/2P1B1P1/1P3P2/6K1%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=3k4/2p2ppp/1p1p1q1b/5Q2/7P/2P1B1P1/1P3P2/6K1%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Overloaded" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=2r1r1k1/1p1b1p1p/p4np1/3p4/5P1Q/3qB2P/P5P1/2R1RNK1%20w%20-%20-%200%2024&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=2r1r1k1/1p1b1p1p/p4np1/3p4/5P1Q/3qB2P/P5P1/2R1RNK1%20w%20-%20-%200%2024&board=brown&piece=neo&size=3" alt="Some Strings Attached" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-05-18"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-05-19"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
