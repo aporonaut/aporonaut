@@ -167,11 +167,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=r5k1/p4ppp/4p3/P3q3/3r4/5BP1/1Q2PP1P/R5K1%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=r5k1/p4ppp/4p3/P3q3/3r4/5BP1/1Q2PP1P/R5K1%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Discover This!" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=5Q2/6Rp/1kp1b3/3p3P/2nPp3/2K5/rpN5/8%20b%20-%20-%200%2049&board=walnut&piece=neo&size=3&flip=true" />
+        <img src="https://www.chess.com/dynboard?fen=5Q2/6Rp/1kp1b3/3p3P/2nPp3/2K5/rpN5/8%20b%20-%20-%200%2049&board=brown&piece=neo&size=3&flip=true" alt="Underdog" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-05-20"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-05-21"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
