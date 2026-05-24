@@ -167,11 +167,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=7r/p4R2/kpp1R2r/4p3/1P1pP2q/P2P4/2PQ2P1/6K1%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=7r/p4R2/kpp1R2r/4p3/1P1pP2q/P2P4/2PQ2P1/6K1%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Grand Opening" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=8/7b/2R4P/6Pk/1p1N1P2/3p2K1/1rp5/8%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=8/7b/2R4P/6Pk/1p1N1P2/3p2K1/1rp5/8%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Discard, Discard..." width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-05-22"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-05-24"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
