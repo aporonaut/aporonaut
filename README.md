@@ -167,11 +167,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=3kr3/7p/1p1B2p1/8/4bK1P/8/1P4P1/3R4%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=3kr3/7p/1p1B2p1/8/4bK1P/8/1P4P1/3R4%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Pardon the Interruption" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=5k2/p7/1p1N2q1/2pnQN2/P4n1P/1P5P/7K/8%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=5k2/p7/1p1N2q1/2pnQN2/P4n1P/1P5P/7K/8%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Horsefield" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-05-25"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-05-27"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
