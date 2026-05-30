@@ -167,11 +167,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=1k5r/p1p1np2/1p4pr/2bB4/8/q1P2QPP/3R2K1/3R1N2%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=1k5r/p1p1np2/1p4pr/2bB4/8/q1P2QPP/3R2K1/3R1N2%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Cornered" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=6k1/5ppp/1p3q2/3r1p2/r2P4/P2Q2P1/R4P1P/2R3K1%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=6k1/5ppp/1p3q2/3r1p2/r2P4/P2Q2P1/R4P1P/2R3K1%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Mind if I Squeeze In?" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-05-28"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-05-29"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
