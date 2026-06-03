@@ -167,11 +167,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=r4r1k/1RQ2pp1/p3p3/P3N2p/3p1qn1/8/5PPP/2R3K1%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=r4r1k/1RQ2pp1/p3p3/P3N2p/3p1qn1/8/5PPP/2R3K1%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Reveal at Your Own Risk" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=kr1r4/4np2/1P2pp1q/7p/p2P2b1/P5P1/4BP2/1R2KQ1R%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=kr1r4/4np2/1P2pp1q/7p/p2P2b1/P5P1/4BP2/1R2KQ1R%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Swipe Right, Swipe Left" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-06-02"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-06-03"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
