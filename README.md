@@ -167,11 +167,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=kr1r4/4np2/1P2pp1q/7p/p2P2b1/P5P1/4BP2/1R2KQ1R%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=kr1r4/4np2/1P2pp1q/7p/p2P2b1/P5P1/4BP2/1R2KQ1R%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Swipe Right, Swipe Left" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=r3nk2/1b1r2b1/1p4P1/3npNN1/8/P3P3/1P1B2K1/3R3R%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=r3nk2/1b1r2b1/1p4P1/3npNN1/8/P3P3/1P1B2K1/3R3R%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Double Hop Mic Drop" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-06-03"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-06-04"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
