@@ -167,11 +167,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=r3nk2/1b1r2b1/1p4P1/3npNN1/8/P3P3/1P1B2K1/3R3R%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=r3nk2/1b1r2b1/1p4P1/3npNN1/8/P3P3/1P1B2K1/3R3R%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Double Hop Mic Drop" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=6k1/5p2/1p2p1p1/1P6/P1BbbPK1/1r4P1/7P/3R3R%20b%20-%20-%200%2039&board=walnut&piece=neo&size=3&flip=true" />
+        <img src="https://www.chess.com/dynboard?fen=6k1/5p2/1p2p1p1/1P6/P1BbbPK1/1r4P1/7P/3R3R%20b%20-%20-%200%2039&board=brown&piece=neo&size=3&flip=true" alt="Royal Trail" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-06-04"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-06-06"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
