@@ -167,11 +167,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=6k1/5p2/1p2p1p1/1P6/P1BbbPK1/1r4P1/7P/3R3R%20b%20-%20-%200%2039&board=walnut&piece=neo&size=3&flip=true" />
-        <img src="https://www.chess.com/dynboard?fen=6k1/5p2/1p2p1p1/1P6/P1BbbPK1/1r4P1/7P/3R3R%20b%20-%20-%200%2039&board=brown&piece=neo&size=3&flip=true" alt="Royal Trail" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=2nr3r/2N5/pk1b4/1bn1pP2/1R4n1/Q5p1/4q1BP/2R3BK%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=2nr3r/2N5/pk1b4/1bn1pP2/1R4n1/Q5p1/4q1BP/2R3BK%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="6️⃣ 🤔 7️⃣ ?" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-06-06"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-06-07"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
