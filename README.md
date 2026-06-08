@@ -167,11 +167,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=2nr3r/2N5/pk1b4/1bn1pP2/1R4n1/Q5p1/4q1BP/2R3BK%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=2nr3r/2N5/pk1b4/1bn1pP2/1R4n1/Q5p1/4q1BP/2R3BK%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="6️⃣ 🤔 7️⃣ ?" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=r1b1k2r/ppppqppp/2n5/4n3/1PP2B2/5N2/1P1NPPPP/R2QKB1R%20b%20KQkq%20-%200%208&board=walnut&piece=neo&size=3&flip=true" />
+        <img src="https://www.chess.com/dynboard?fen=r1b1k2r/ppppqppp/2n5/4n3/1PP2B2/5N2/1P1NPPPP/R2QKB1R%20b%20KQkq%20-%200%208&board=brown&piece=neo&size=3&flip=true" alt="Their Worst Nightmare 😱" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-06-07"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-06-08"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
