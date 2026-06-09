@@ -65,6 +65,7 @@ MARQUEE:CONFIG -->
   <picture><img src="assets/headers/current-focus-header.svg" alt="Currently working on..." height="35" /></picture>
   <br /><br />
   <!-- FOCUS:CONFIG
+  yolo,111F68,YOLO,Experimenting on state-of-the-art object detection across various configurations
   claude,D97757,ccForge,Structured templates and guidance for personalizing Claude Code
   letterboxd,00E054,Ananym,Multilingual anagram engine decomposing names into meaningful n-gram words
   d3,F9A03C,Dynamic Family Tree,Interactive genealogy rendered as a traversable olive tree
