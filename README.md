@@ -78,6 +78,7 @@ MARQUEE:CONFIG -->
   FOCUS:CONFIG -->
   <!-- FOCUS:START -->
   <p>
+    <picture><img src="assets/focus/yolo.svg" alt="YOLO | Experimenting on state-of-the-art object detection across various configurations" /></picture><br /><br />
     <picture><img src="assets/focus/ccforge.svg" alt="ccForge | Structured templates and guidance for personalizing Claude Code" /></picture><br /><br />
     <picture><img src="assets/focus/ananym.svg" alt="Ananym | Multilingual anagram engine decomposing names into meaningful n-gram words" /></picture><br /><br />
     <picture><img src="assets/focus/dynamic-family-tree.svg" alt="Dynamic Family Tree | Interactive genealogy rendered as a traversable olive tree" /></picture><br /><br />
