@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=r1bqk2r/2ppbpp1/p6p/np2p2n/4N1Q1/1PN1PP2/PBP1B1PP/R4RK1%20b%20kq%20-%200%201&board=walnut&piece=neo&size=3&flip=true" />
-        <img src="https://www.chess.com/dynboard?fen=r1bqk2r/2ppbpp1/p6p/np2p2n/4N1Q1/1PN1PP2/PBP1B1PP/R4RK1%20b%20kq%20-%200%201&board=brown&piece=neo&size=3&flip=true" alt="A Delicate Nudge" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=r2r2k1/1bp1qp1p/1pn3p1/2pB4/8/2PP2PP/PP1N1PQ1/R4RK1%20b%20-%20-%200%2015&board=walnut&piece=neo&size=3&flip=true" />
+        <img src="https://www.chess.com/dynboard?fen=r2r2k1/1bp1qp1p/1pn3p1/2pB4/8/2PP2PP/PP1N1PQ1/R4RK1%20b%20-%20-%200%2015&board=brown&piece=neo&size=3&flip=true" alt="Demolition Derby" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-06-11"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-06-12"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
