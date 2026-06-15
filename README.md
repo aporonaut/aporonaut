@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=3qr1k1/5p2/2n3pB/p1nN4/6b1/b1r2N2/B4PP1/1Q3K1R%20w%20-%20-%200%2022&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=3qr1k1/5p2/2n3pB/p1nN4/6b1/b1r2N2/B4PP1/1Q3K1R%20w%20-%20-%200%2022&board=brown&piece=neo&size=3" alt="Three 🎁 for Your King" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=k1r5/p2r4/2Pb3q/8/6p1/6PP/5PBK/8%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=k1r5/p2r4/2Pb3q/8/6p1/6PP/5PBK/8%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Quality > Quantity" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-06-13"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-06-15"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
