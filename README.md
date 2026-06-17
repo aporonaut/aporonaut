@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=r7/3k2b1/5q1p/p1R3pB/1n6/1P5P/P1P1RnPB/1K6%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=r7/3k2b1/5q1p/p1R3pB/1n6/1P5P/P1P1RnPB/1K6%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Meet You in the Middle" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=2RB2bk/6b1/p7/1p4Np/1P4p1/PB5P/K2p2P1/4r3%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=2RB2bk/6b1/p7/1p4Np/1P4p1/PB5P/K2p2P1/4r3%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Up in Your Grill" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-06-16"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-06-17"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
