@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=3rrq1k/1p1b2p1/pn2p1Q1/3pP3/3P3P/P4N2/1P1B1PP1/4K2R%20w%20K%20-%200%201&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=3rrq1k/1p1b2p1/pn2p1Q1/3pP3/3P3P/P4N2/1P1B1PP1/4K2R%20w%20K%20-%200%201&board=brown&piece=neo&size=3" alt="Circle Dance" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=2kr3r/1p1n1pb1/p1p3p1/2Q2n1q/2N4p/1P5P/P4PPB/3R1BK1%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=2kr3r/1p1n1pb1/p1p3p1/2Q2n1q/2N4p/1P5P/P4PPB/3R1BK1%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Boden's Dream" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-06-18"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-06-19"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
