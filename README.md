@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=2Q5/7p/1p6/1k4q1/1p3pP1/1P6/2P3P1/2K5%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=2Q5/7p/1p6/1k4q1/1p3pP1/1P6/2P3P1/2K5%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="I'll Pass - Unless..." width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=4r1k1/p4bp1/1ppp4/8/1P1PnN1R/2PB2P1/q6P/5QK1%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=4r1k1/p4bp1/1ppp4/8/1P1PnN1R/2PB2P1/q6P/5QK1%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Trolling the Guard 😏" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-06-25"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-06-26"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
