@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=8/4q1pk/3p2b1/2pPpP2/1pP3Kp/1P1QP2P/6P1/N7%20b%20-%20-%200%2043&board=walnut&piece=neo&size=3&flip=true" />
-        <img src="https://www.chess.com/dynboard?fen=8/4q1pk/3p2b1/2pPpP2/1pP3Kp/1P1QP2P/6P1/N7%20b%20-%20-%200%2043&board=brown&piece=neo&size=3&flip=true" alt="Giri's 🎂 Boss Move" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=2r1k3/5pp1/4n1p1/3p4/7Q/Pr1P3P/5PP1/5BK1%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=2r1k3/5pp1/4n1p1/3p4/7Q/Pr1P3P/5PP1/5BK1%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Loosey-goosey" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-06-28"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-06-29"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
