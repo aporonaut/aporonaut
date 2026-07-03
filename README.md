@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=4r1k1/3b1Nbp/2pB1n2/p1P1ppNn/1r6/1B1q2PP/P4P1K/2R1R3%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=4r1k1/3b1Nbp/2pB1n2/p1P1ppNn/1r6/1B1q2PP/P4P1K/2R1R3%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Switcheroo" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=7r/R1Qnbk1r/1p1p4/1P1b1pp1/3Pp1q1/4P1P1/1B3PB1/2R2NK1%20b%20-%20-%200%201&board=walnut&piece=neo&size=3&flip=true" />
+        <img src="https://www.chess.com/dynboard?fen=7r/R1Qnbk1r/1p1p4/1P1b1pp1/3Pp1q1/4P1P1/1B3PB1/2R2NK1%20b%20-%20-%200%201&board=brown&piece=neo&size=3&flip=true" alt="X-Ray Slay" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-07-02"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-07-03"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
