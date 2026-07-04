@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=7r/R1Qnbk1r/1p1p4/1P1b1pp1/3Pp1q1/4P1P1/1B3PB1/2R2NK1%20b%20-%20-%200%201&board=walnut&piece=neo&size=3&flip=true" />
-        <img src="https://www.chess.com/dynboard?fen=7r/R1Qnbk1r/1p1p4/1P1b1pp1/3Pp1q1/4P1P1/1B3PB1/2R2NK1%20b%20-%20-%200%201&board=brown&piece=neo&size=3&flip=true" alt="X-Ray Slay" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=8/8/2pp4/Q1rkpK2/2b4R/4P3/3n4/4b1q1%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=8/8/2pp4/Q1rkpK2/2b4R/4P3/3n4/4b1q1%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Major 🎆 Pawn Finale 🎇" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-07-03"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-07-04"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
