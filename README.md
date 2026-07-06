@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=R7/P4p2/r7/6Pp/p6k/8/6PK/8%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=R7/P4p2/r7/6Pp/p6k/8/6PK/8%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Poisoned Pawns ☠️" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=2b1r3/p1b2pk1/1r4n1/1P4N1/P1nP2P1/1Q3K2/1BB2P1p/R3R3%20b%20-%20-%200%2046&board=walnut&piece=neo&size=3&flip=true" />
+        <img src="https://www.chess.com/dynboard?fen=2b1r3/p1b2pk1/1r4n1/1P4N1/P1nP2P1/1Q3K2/1BB2P1p/R3R3%20b%20-%20-%200%2046&board=brown&piece=neo&size=3&flip=true" alt="Open Goal ⚽" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-07-05"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-07-06"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
