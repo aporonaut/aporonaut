@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=3q2k1/1p4pp/8/6P1/8/1P2Q3/b5BP/3rR1K1%20w%20-%20-%200%2030&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=3q2k1/1p4pp/8/6P1/8/1P2Q3/b5BP/3rR1K1%20w%20-%20-%200%2030&board=brown&piece=neo&size=3" alt="Pardon the Interrup..." width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=1r3rk1/1b3pp1/2pbp1P1/4N3/3PQP2/qp2R1P1/P1n5/1K5R%20w%20-%20-%200%2029&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=1r3rk1/1b3pp1/2pbp1P1/4N3/3PQP2/qp2R1P1/P1n5/1K5R%20w%20-%20-%200%2029&board=brown&piece=neo&size=3" alt="What's Stopping You?" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-07-09"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-07-10"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
