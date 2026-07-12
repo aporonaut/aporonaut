@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=4b1k1/1pp1n1r1/p7/2r3pR/4p1N1/2PnP1PP/1PB2R1K/8%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=4b1k1/1pp1n1r1/p7/2r3pR/4p1N1/2PnP1PP/1PB2R1K/8%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Jump Around!" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=8/2p5/8/2k2P1P/3p4/8/7p/7K%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=8/2p5/8/2k2P1P/3p4/8/7p/7K%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="One-Two Punch 🥊" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-07-11"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-07-12"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
