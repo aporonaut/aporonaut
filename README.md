@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=r3N2k/2q3p1/2p1Qr1p/p7/Pp2P3/2bP4/2P2PPP/1R3RK1%20b%20-%20-%200%2022&board=walnut&piece=neo&size=3&flip=true" />
-        <img src="https://www.chess.com/dynboard?fen=r3N2k/2q3p1/2p1Qr1p/p7/Pp2P3/2bP4/2P2PPP/1R3RK1%20b%20-%20-%200%2022&board=brown&piece=neo&size=3&flip=true" alt="When Forks Collide" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=6k1/1p3pp1/1RP4p/2q1p3/6PK/7P/3P4/Q5R1%20b%20-%20-%200%2038&board=walnut&piece=neo&size=3&flip=true" />
+        <img src="https://www.chess.com/dynboard?fen=6k1/1p3pp1/1RP4p/2q1p3/6PK/7P/3P4/Q5R1%20b%20-%20-%200%2038&board=brown&piece=neo&size=3&flip=true" alt="Chased into the Shadows" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-07-15"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-07-16"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
