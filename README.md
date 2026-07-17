@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=6k1/1p3pp1/1RP4p/2q1p3/6PK/7P/3P4/Q5R1%20b%20-%20-%200%2038&board=walnut&piece=neo&size=3&flip=true" />
-        <img src="https://www.chess.com/dynboard?fen=6k1/1p3pp1/1RP4p/2q1p3/6PK/7P/3P4/Q5R1%20b%20-%20-%200%2038&board=brown&piece=neo&size=3&flip=true" alt="Chased into the Shadows" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=1k5r/4q3/1pp5/3bNp2/6p1/P5P1/1P3P2/3QRK2%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=1k5r/4q3/1pp5/3bNp2/6p1/P5P1/1P3P2/3QRK2%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Open with Caution ⚠️" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-07-16"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-07-17"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
