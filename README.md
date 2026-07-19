@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=k7/2K5/1P6/8/7p/1rR4p/7P/8%20w%20-%20-%200%207&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=k7/2K5/1P6/8/7p/1rR4p/7P/8%20w%20-%20-%200%207&board=brown&piece=neo&size=3" alt="Awkward Tension" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=8/8/2pp4/Q1rkpK2/7R/1b2P3/2Pn4/4b1q1%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=8/8/2pp4/Q1rkpK2/7R/1b2P3/2Pn4/4b1q1%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Forcing Moves Nostalgia" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-07-18"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-07-19"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
