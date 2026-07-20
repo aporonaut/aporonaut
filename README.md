@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=8/8/2pp4/Q1rkpK2/7R/1b2P3/2Pn4/4b1q1%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=8/8/2pp4/Q1rkpK2/7R/1b2P3/2Pn4/4b1q1%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Forcing Moves Nostalgia" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=kr2r3/1pb3QR/1ppqN3/3n1P2/1P6/5B2/2P3P1/7K%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=kr2r3/1pb3QR/1ppqN3/3n1P2/1P6/5B2/2P3P1/7K%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Happy Intl. Chess Day! 🌍" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-07-19"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-07-20"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
