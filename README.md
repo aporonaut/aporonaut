@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=kr2r3/1pb3QR/1ppqN3/3n1P2/1P6/5B2/2P3P1/7K%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=kr2r3/1pb3QR/1ppqN3/3n1P2/1P6/5B2/2P3P1/7K%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Happy Intl. Chess Day! 🌍" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=r2q1rk1/p1p2pp1/p2p1nbp/3N4/2P4N/1P2Q2P/P1P1RPP1/3R2K1%20b%20-%20-%202%2014&board=walnut&piece=neo&size=3&flip=true" />
+        <img src="https://www.chess.com/dynboard?fen=r2q1rk1/p1p2pp1/p2p1nbp/3N4/2P4N/1P2Q2P/P1P1RPP1/3R2K1%20b%20-%20-%202%2014&board=brown&piece=neo&size=3&flip=true" alt="Here Today, Gone Tomorrow" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-07-20"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-07-21"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
