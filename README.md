@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=6r1/4k3/4prbn/pp1p4/2pP1RPN/P1P1K3/2P1B3/7R%20w%20-%20-%200%2030&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=6r1/4k3/4prbn/pp1p4/2pP1RPN/P1P1K3/2P1B3/7R%20w%20-%20-%200%2030&board=brown&piece=neo&size=3" alt="Polgar's Magnetic Attack" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=q6k/1r5p/4Np1P/2p3p1/1r6/p3QPP1/4R1K1/8%20w%20-%20-%200%2043&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=q6k/1r5p/4Np1P/2p3p1/1r6/p3QPP1/4R1K1/8%20w%20-%20-%200%2043&board=brown&piece=neo&size=3" alt="Cannonball! 🌊" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-07-23"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-07-24"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
