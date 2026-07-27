@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=8/8/8/8/5k2/1p3pR1/bK5P/8%20b%20-%20-%200%201&board=walnut&piece=neo&size=3&flip=true" />
-        <img src="https://www.chess.com/dynboard?fen=8/8/8/8/5k2/1p3pR1/bK5P/8%20b%20-%20-%200%201&board=brown&piece=neo&size=3&flip=true" alt="Finish Line Theatrics" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=4r1k1/p4pp1/3p4/3P3p/7Q/P3P2P/6PK/3r4%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=4r1k1/p4pp1/3p4/3P3p/7Q/P3P2P/6PK/3r4%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="The Castle's Blindspot" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-07-26"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-07-27"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
