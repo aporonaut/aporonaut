@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=4r1k1/p4pp1/3p4/3P3p/7Q/P3P2P/6PK/3r4%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=4r1k1/p4pp1/3p4/3P3p/7Q/P3P2P/6PK/3r4%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="The Castle's Blindspot" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=5rk1/pp3ppp/4p3/q2p4/1n1P2n1/1Q2P1N1/PPB1N1PP/R1B1K2R%20b%20KQ%20-%200%2012&board=walnut&piece=neo&size=3&flip=true" />
+        <img src="https://www.chess.com/dynboard?fen=5rk1/pp3ppp/4p3/q2p4/1n1P2n1/1Q2P1N1/PPB1N1PP/R1B1K2R%20b%20KQ%20-%200%2012&board=brown&piece=neo&size=3&flip=true" alt="I Want It All" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-07-27"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-07-28"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
