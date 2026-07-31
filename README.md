@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=6k1/5r1p/BQ1nb1p1/p2p2P1/P2Pp3/2P1P3/1KN2P1q/5R2%20b%20-%20-%200%2041&board=walnut&piece=neo&size=3&flip=true" />
-        <img src="https://www.chess.com/dynboard?fen=6k1/5r1p/BQ1nb1p1/p2p2P1/P2Pp3/2P1P3/1KN2P1q/5R2%20b%20-%20-%200%2041&board=brown&piece=neo&size=3&flip=true" alt="Caruana's 🎂 🥳 Stunner" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=8/3p2K1/4k3/4P3/4p3/2P5/1q6/5Q2%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=8/3p2K1/4k3/4P3/4p3/2P5/1q6/5Q2%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Bait & Switch" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-07-30"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-07-31"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
