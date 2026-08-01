@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=8/3p2K1/4k3/4P3/4p3/2P5/1q6/5Q2%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=8/3p2K1/4k3/4P3/4p3/2P5/1q6/5Q2%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Bait & Switch" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=6k1/1p4p1/4q1P1/p7/K7/PP3NP1/2R2P2/8%20b%20-%20-%200%2036&board=walnut&piece=neo&size=3&flip=true" />
+        <img src="https://www.chess.com/dynboard?fen=6k1/1p4p1/4q1P1/p7/K7/PP3NP1/2R2P2/8%20b%20-%20-%200%2036&board=brown&piece=neo&size=3&flip=true" alt="Stutter Step Drop" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-07-31"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-08-01"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
