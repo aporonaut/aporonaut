@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=1R6/3b1kpp/8/p3pP2/P5P1/B5KP/1r3r2/8%20w%20-%20-%207%2040&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=1R6/3b1kpp/8/p3pP2/P5P1/B5KP/1r3r2/8%20w%20-%20-%207%2040&board=brown&piece=neo&size=3" alt="Fab Collab" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=6k1/2N2pp1/3P3p/2p5/1n2p1Q1/4Pq2/r3RP1N/3RK3%20b%20-%20-%201%2034&board=walnut&piece=neo&size=3&flip=true" />
+        <img src="https://www.chess.com/dynboard?fen=6k1/2N2pp1/3P3p/2p5/1n2p1Q1/4Pq2/r3RP1N/3RK3%20b%20-%20-%201%2034&board=brown&piece=neo&size=3&flip=true" alt="Which Way to the Kingdom?" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-08-03"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-08-04"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
