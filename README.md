@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=3q1b2/p3rbk1/R2N2pp/3Bp1N1/4P2B/2pn1Q1P/1r3P1P/6K1%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=3q1b2/p3rbk1/R2N2pp/3Bp1N1/4P2B/2pn1Q1P/1r3P1P/6K1%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Anybody Home?" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=2K2k2/8/r4P2/8/1n5P/pB3R2/6P1/8%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=2K2k2/8/r4P2/8/1n5P/pB3R2/6P1/8%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Give, Then Receive" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-08-07"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-08-08"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
