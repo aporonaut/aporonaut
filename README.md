@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=r1bqkb1r/1p1n1ppp/p1pppn2/6B1/P2P4/4P1P1/1PP1NPBP/RN1QK2R%20b%20KQkq%20-%200%201&board=walnut&piece=neo&size=3&flip=true" />
-        <img src="https://www.chess.com/dynboard?fen=r1bqkb1r/1p1n1ppp/p1pppn2/6B1/P2P4/4P1P1/1PP1NPBP/RN1QK2R%20b%20KQkq%20-%200%201&board=brown&piece=neo&size=3&flip=true" alt="Pin Breaker" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=8/8/1RN3k1/p7/3P4/5Pb1/PP2r1p1/6K1%20b%20-%20-%200%2045&board=walnut&piece=neo&size=3&flip=true" />
+        <img src="https://www.chess.com/dynboard?fen=8/8/1RN3k1/p7/3P4/5Pb1/PP2r1p1/6K1%20b%20-%20-%200%2045&board=brown&piece=neo&size=3&flip=true" alt="Dream Team" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-08-10"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-08-12"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
