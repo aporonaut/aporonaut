@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=8/8/1RN3k1/p7/3P4/5Pb1/PP2r1p1/6K1%20b%20-%20-%200%2045&board=walnut&piece=neo&size=3&flip=true" />
-        <img src="https://www.chess.com/dynboard?fen=8/8/1RN3k1/p7/3P4/5Pb1/PP2r1p1/6K1%20b%20-%20-%200%2045&board=brown&piece=neo&size=3&flip=true" alt="Dream Team" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=7k/3r1pp1/8/Q2p4/8/B2P4/KP3PPP/7q%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=7k/3r1pp1/8/Q2p4/8/B2P4/KP3PPP/7q%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Laser Tag" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-08-12"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-08-13"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
