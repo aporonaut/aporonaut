@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=2r4k/1b6/1p1q3p/3P1B2/1P4P1/4Q3/r6P/5RK1%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=2r4k/1b6/1p1q3p/3P1B2/1P4P1/4Q3/r6P/5RK1%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Zig, Zag, in the Bag!" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=5rk1/1p3p1p/q4Qp1/3pPbN1/3P3P/5R2/P5P1/6K1%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=5rk1/1p3p1p/q4Qp1/3pPbN1/3P3P/5R2/P5P1/6K1%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="I'll Huff & I'll Puff..." width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-08-14"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-08-15"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
