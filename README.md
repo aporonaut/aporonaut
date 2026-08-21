@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=6k1/6Pp/8/N3B1NP/1p6/1P2p1R1/PK6/r6r%20b%20-%20-%200%2034&board=walnut&piece=neo&size=3&flip=true" />
-        <img src="https://www.chess.com/dynboard?fen=6k1/6Pp/8/N3B1NP/1p6/1P2p1R1/PK6/r6r%20b%20-%20-%200%2034&board=brown&piece=neo&size=3&flip=true" alt="Pass the Rock!" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=8/p4bk1/3p3p/3P2p1/PP2B3/3PqQ1K/7P/8%20b%20-%20-%200%2043&board=walnut&piece=neo&size=3&flip=true" />
+        <img src="https://www.chess.com/dynboard?fen=8/p4bk1/3p3p/3P2p1/PP2B3/3PqQ1K/7P/8%20b%20-%20-%200%2043&board=brown&piece=neo&size=3&flip=true" alt="Fatal Attraction" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-08-19"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-08-20"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
