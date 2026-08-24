@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=2r2r1k/4ppRp/p4n1P/6R1/2q1pP2/8/PpN5/1K4Q1%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=2r2r1k/4ppRp/p4n1P/6R1/2q1pP2/8/PpN5/1K4Q1%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Clear the Air" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=1nbr3k/r5p1/p4pP1/1ppBN3/P7/7n/1P1K4/5R1R%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=1nbr3k/r5p1/p4pP1/1ppBN3/P7/7n/1P1K4/5R1R%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Take One for the Team" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-08-22"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-08-23"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
