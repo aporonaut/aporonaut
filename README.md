@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=Q7/8/5b2/4k3/7B/p1q5/K1P5/8%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=Q7/8/5b2/4k3/7B/p1q5/K1P5/8%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Corner Kick" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=8/p4p2/6kp/2NR1p2/4nP2/PPB1P2P/7r/4K3%20b%20-%20-%200%2041&board=walnut&piece=neo&size=3&flip=true" />
+        <img src="https://www.chess.com/dynboard?fen=8/p4p2/6kp/2NR1p2/4nP2/PPB1P2P/7r/4K3%20b%20-%20-%200%2041&board=brown&piece=neo&size=3&flip=true" alt="Set the Table" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-08-24"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-08-25"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
