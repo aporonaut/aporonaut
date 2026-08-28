@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=3rR3/3P1p2/2B2bp1/p1p2k2/P7/5KpP/8/8%20w%20-%20-%200%2039&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=3rR3/3P1p2/2B2bp1/p1p2k2/P7/5KpP/8/8%20w%20-%20-%200%2039&board=brown&piece=neo&size=3" alt="Gentle Lightning Bolt ⚡" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=8/8/8/5p1p/B3p1kP/3p2P1/5K2/8%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=8/8/8/5p1p/B3p1kP/3p2P1/5K2/8%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="To Those Who Wait" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-08-27"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-08-28"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
