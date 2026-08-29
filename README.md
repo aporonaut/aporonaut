@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=8/8/8/5p1p/B3p1kP/3p2P1/5K2/8%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=8/8/8/5p1p/B3p1kP/3p2P1/5K2/8%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="To Those Who Wait" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=8/5pk1/2p1p3/P1Nn4/Q1PP2p1/4PbPp/1r3P2/5RK1%20b%20-%20-%200%201&board=walnut&piece=neo&size=3&flip=true" />
+        <img src="https://www.chess.com/dynboard?fen=8/5pk1/2p1p3/P1Nn4/Q1PP2p1/4PbPp/1r3P2/5RK1%20b%20-%20-%200%201&board=brown&piece=neo&size=3&flip=true" alt="Come and Get Me" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-08-28"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-08-29"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
