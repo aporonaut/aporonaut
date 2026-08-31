@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=1r3k2/p1p2p2/3pr3/2p3pp/2P2n2/1PN2B2/P1R1PP1q/2BRQK2%20b%20-%20-%200%201&board=walnut&piece=neo&size=3&flip=true" />
-        <img src="https://www.chess.com/dynboard?fen=1r3k2/p1p2p2/3pr3/2p3pp/2P2n2/1PN2B2/P1R1PP1q/2BRQK2%20b%20-%20-%200%201&board=brown&piece=neo&size=3&flip=true" alt="Put a Cork In It" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=1b6/5p2/bR2n3/8/P3P3/4KN1p/6k1/6N1%20b%20-%20-%200%2046&board=walnut&piece=neo&size=3&flip=true" />
+        <img src="https://www.chess.com/dynboard?fen=1b6/5p2/bR2n3/8/P3P3/4KN1p/6k1/6N1%20b%20-%20-%200%2046&board=brown&piece=neo&size=3&flip=true" alt="Eyes on the Grand Prize" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-08-30"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-08-31"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
