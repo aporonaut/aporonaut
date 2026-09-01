@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=1b6/5p2/bR2n3/8/P3P3/4KN1p/6k1/6N1%20b%20-%20-%200%2046&board=walnut&piece=neo&size=3&flip=true" />
-        <img src="https://www.chess.com/dynboard?fen=1b6/5p2/bR2n3/8/P3P3/4KN1p/6k1/6N1%20b%20-%20-%200%2046&board=brown&piece=neo&size=3&flip=true" alt="Eyes on the Grand Prize" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=rnb1k2r/ppp2pp1/3qp2p/8/1b1P4/2B3P1/PP2PPBP/R2QK1NR%20w%20KQkq%20-%200%201&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=rnb1k2r/ppp2pp1/3qp2p/8/1b1P4/2B3P1/PP2PPBP/R2QK1NR%20w%20KQkq%20-%200%201&board=brown&piece=neo&size=3" alt="Where Did Everybody Go?" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-08-31"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-09-01"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
