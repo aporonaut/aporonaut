@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=rnb1k2r/ppp2pp1/3qp2p/8/1b1P4/2B3P1/PP2PPBP/R2QK1NR%20w%20KQkq%20-%200%201&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=rnb1k2r/ppp2pp1/3qp2p/8/1b1P4/2B3P1/PP2PPBP/R2QK1NR%20w%20KQkq%20-%200%201&board=brown&piece=neo&size=3" alt="Where Did Everybody Go?" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=3r1r1k/1bp3p1/pbnp2qp/8/3BPp2/PB3P2/1P1QN1PP/3RR1K1%20b%20-%20-%200%201&board=walnut&piece=neo&size=3&flip=true" />
+        <img src="https://www.chess.com/dynboard?fen=3r1r1k/1bp3p1/pbnp2qp/8/3BPp2/PB3P2/1P1QN1PP/3RR1K1%20b%20-%20-%200%201&board=brown&piece=neo&size=3&flip=true" alt="Ready, Set, Push!" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-09-01"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-09-02"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
