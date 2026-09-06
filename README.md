@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=r1b2rk1/2p1bp1p/2np4/8/qp1BB1PP/5PN1/PP1Q4/K6R%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=r1b2rk1/2p1bp1p/2np4/8/qp1BB1PP/5PN1/PP1Q4/K6R%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Siren's Call" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=8/8/8/R7/8/8/Bpp1p3/k1rbK3%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=8/8/8/R7/8/8/Bpp1p3/k1rbK3%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Load the Cannon!" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-09-05"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-09-06"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
