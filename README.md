@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=8/8/8/R7/8/8/Bpp1p3/k1rbK3%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=8/8/8/R7/8/8/Bpp1p3/k1rbK3%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Load the Cannon!" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=6rk/R7/1p2p3/2npP3/7b/2P2N2/1P4rP/1B5K%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=6rk/R7/1p2p3/2npP3/7b/2P2N2/1P4rP/1B5K%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Stretch the Board" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-09-06"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-09-07"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
