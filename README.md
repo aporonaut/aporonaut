@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=6rk/R7/1p2p3/2npP3/7b/2P2N2/1P4rP/1B5K%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=6rk/R7/1p2p3/2npP3/7b/2P2N2/1P4rP/1B5K%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Stretch the Board" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=kb6/p7/5p2/2RPpp2/2RK4/2BPP3/6B1/8%20w%20-%20e6%200%201&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=kb6/p7/5p2/2RPpp2/2RK4/2BPP3/6B1/8%20w%20-%20e6%200%201&board=brown&piece=neo&size=3" alt="Checkmate? Hard Pass!" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-09-07"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-09-08"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
