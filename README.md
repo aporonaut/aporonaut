@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=8/5Q2/7k/4p3/1rPq1n2/p3N2P/P4PP1/1b4K1%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=8/5Q2/7k/4p3/1rPq1n2/p3N2P/P4PP1/1b4K1%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Square Dance with Me 🤠" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=2b3k1/p5q1/3pn1p1/2pN1pP1/1r2P3/2b1BP2/P1PQB3/2KR3R%20b%20-%20-%200%201&board=walnut&piece=neo&size=3&flip=true" />
+        <img src="https://www.chess.com/dynboard?fen=2b3k1/p5q1/3pn1p1/2pN1pP1/1r2P3/2b1BP2/P1PQB3/2KR3R%20b%20-%20-%200%201&board=brown&piece=neo&size=3&flip=true" alt="Hit the Open Road" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-09-09"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-09-10"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
