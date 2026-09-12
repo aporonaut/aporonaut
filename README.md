@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=2rQ1bkr/7p/p3b2n/1pqNN1pP/2p1P3/1P6/P1P1n1P1/5R1K%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=2rQ1bkr/7p/p3b2n/1pqNN1pP/2p1P3/1P6/P1P1n1P1/5R1K%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Giddy Up, Mate!" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=3r2k1/1p3Rpp/2n5/r3b2P/4p3/1B1P4/P1P3K1/qN1Q4%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=3r2k1/1p3Rpp/2n5/r3b2P/4p3/1B1P4/P1P3K1/qN1Q4%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Fully Charged ⚡" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-09-11"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-09-12"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
