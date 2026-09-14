@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=3r4/p5bk/1pn3Np/2q3p1/8/PQ1B2P1/KP6/8%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=3r4/p5bk/1pn3Np/2q3p1/8/PQ1B2P1/KP6/8%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Corner, Circle, Knock Out" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=4k3/Q5pq/4p3/3p3P/3P3K/4P1P1/8/8%20b%20-%20-%200%201&board=walnut&piece=neo&size=3&flip=true" />
+        <img src="https://www.chess.com/dynboard?fen=4k3/Q5pq/4p3/3p3P/3P3K/4P1P1/8/8%20b%20-%20-%200%201&board=brown&piece=neo&size=3&flip=true" alt="Surprise! 🥳" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-09-13"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-09-14"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
