@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=5n1k/1R6/2p2p1p/3b3P/P2P1q2/3B2R1/1Q3PPK/4r3%20b%20-%20-%200%2047&board=walnut&piece=neo&size=3&flip=true" />
-        <img src="https://www.chess.com/dynboard?fen=5n1k/1R6/2p2p1p/3b3P/P2P1q2/3B2R1/1Q3PPK/4r3%20b%20-%20-%200%2047&board=brown&piece=neo&size=3&flip=true" alt="Tide In, Tide Out" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=2qrk3/3p1b2/6Rn/1p1N3B/1B1pP3/P1pP4/KP6/8%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=2qrk3/3p1b2/6Rn/1p1N3B/1B1pP3/P1pP4/KP6/8%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Unleash the Beast" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-09-16"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-09-17"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
