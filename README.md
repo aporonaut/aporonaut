@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=2qrk3/3p1b2/6Rn/1p1N3B/1B1pP3/P1pP4/KP6/8%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=2qrk3/3p1b2/6Rn/1p1N3B/1B1pP3/P1pP4/KP6/8%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Unleash the Beast" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=4r3/R3P1kp/1p4p1/4q3/4p3/P6P/6P1/5Q1K%20w%20-%20-%200%2047&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=4r3/R3P1kp/1p4p1/4q3/4p3/P6P/6P1/5Q1K%20w%20-%20-%200%2047&board=brown&piece=neo&size=3" alt="I'll Be Back!" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-09-17"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-09-18"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
