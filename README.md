@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=4r3/R3P1kp/1p4p1/4q3/4p3/P6P/6P1/5Q1K%20w%20-%20-%200%2047&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=4r3/R3P1kp/1p4p1/4q3/4p3/P6P/6P1/5Q1K%20w%20-%20-%200%2047&board=brown&piece=neo&size=3" alt="I'll Be Back!" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=q3rn1k/2QR4/pp2pp2/8/P1P5/1P4N1/6n1/6K1%20w%20-%20-%200%2050&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=q3rn1k/2QR4/pp2pp2/8/P1P5/1P4N1/6n1/6K1%20w%20-%20-%200%2050&board=brown&piece=neo&size=3" alt="Queen's g7 Dream" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-09-18"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-09-19"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
