@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=q3rn1k/2QR4/pp2pp2/8/P1P5/1P4N1/6n1/6K1%20w%20-%20-%200%2050&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=q3rn1k/2QR4/pp2pp2/8/P1P5/1P4N1/6n1/6K1%20w%20-%20-%200%2050&board=brown&piece=neo&size=3" alt="Queen's g7 Dream" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=6Q1/5P2/1pp3P1/3p4/pB6/PqPk3p/2b4P/K6R%20b%20-%20-%200%201&board=walnut&piece=neo&size=3&flip=true" />
+        <img src="https://www.chess.com/dynboard?fen=6Q1/5P2/1pp3P1/3p4/pB6/PqPk3p/2b4P/K6R%20b%20-%20-%200%201&board=brown&piece=neo&size=3&flip=true" alt="Level Up!" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-09-19"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-09-20"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
