@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=6Q1/5P2/1pp3P1/3p4/pB6/PqPk3p/2b4P/K6R%20b%20-%20-%200%201&board=walnut&piece=neo&size=3&flip=true" />
-        <img src="https://www.chess.com/dynboard?fen=6Q1/5P2/1pp3P1/3p4/pB6/PqPk3p/2b4P/K6R%20b%20-%20-%200%201&board=brown&piece=neo&size=3&flip=true" alt="Level Up!" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=r1b1q1kr/ppNnb1pp/5n2/8/3P4/8/PPP2PPP/R1BQKB1R%20b%20KQ%20-%200%2010&board=walnut&piece=neo&size=3&flip=true" />
+        <img src="https://www.chess.com/dynboard?fen=r1b1q1kr/ppNnb1pp/5n2/8/3P4/8/PPP2PPP/R1BQKB1R%20b%20KQ%20-%200%2010&board=brown&piece=neo&size=3&flip=true" alt="The Anti-Fork" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-09-20"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-09-21"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
