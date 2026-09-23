@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=r3kb1r/ppnqp2p/2ppNnp1/8/3P2P1/5Q2/PPP2P1P/RNB1R1K1%20w%20kq%20-%200%2015&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=r3kb1r/ppnqp2p/2ppNnp1/8/3P2P1/5Q2/PPP2P1P/RNB1R1K1%20w%20kq%20-%200%2015&board=brown&piece=neo&size=3" alt="Discover Your Gift" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=1r1r2k1/p3b1pp/1p2pp2/1Nppq3/7P/P2P1QP1/2P3P1/1R3RK1%20w%20-%20-%200%2021&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=1r1r2k1/p3b1pp/1p2pp2/1Nppq3/7P/P2P1QP1/2P3P1/1R3RK1%20w%20-%20-%200%2021&board=brown&piece=neo&size=3" alt="The Loneliest Piece" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-09-22"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-09-23"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
