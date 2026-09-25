@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=4r2r/5pk1/p2P1bp1/8/Q3q3/1P3RPp/P4P1N/3R2K1%20b%20-%20-%200%2045&board=walnut&piece=neo&size=3&flip=true" />
-        <img src="https://www.chess.com/dynboard?fen=4r2r/5pk1/p2P1bp1/8/Q3q3/1P3RPp/P4P1N/3R2K1%20b%20-%20-%200%2045&board=brown&piece=neo&size=3&flip=true" alt="Botez's Comeback Queen 🎉" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=r4rk1/p2q1ppp/1nQ5/5P2/Np6/1P2p3/PB3b1P/K1R2R2%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=r4rk1/p2q1ppp/1nQ5/5P2/Np6/1P2p3/PB3b1P/K1R2R2%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="The Price of Victory" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-09-24"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-09-25"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
