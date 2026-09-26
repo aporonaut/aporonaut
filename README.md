@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=r4rk1/p2q1ppp/1nQ5/5P2/Np6/1P2p3/PB3b1P/K1R2R2%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=r4rk1/p2q1ppp/1nQ5/5P2/Np6/1P2p3/PB3b1P/K1R2R2%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="The Price of Victory" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=r1b1k2r/p3ppb1/n1pp1np1/q3P2p/1p1P1B2/2N2N2/PPPQ1PPP/2KR1B1R%20w%20kq%20-%200%201&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=r1b1k2r/p3ppb1/n1pp1np1/q3P2p/1p1P1B2/2N2N2/PPPQ1PPP/2KR1B1R%20w%20kq%20-%200%201&board=brown&piece=neo&size=3" alt="Choppy Waters" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-09-25"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-09-26"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
