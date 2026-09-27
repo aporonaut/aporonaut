@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=r1b1k2r/p3ppb1/n1pp1np1/q3P2p/1p1P1B2/2N2N2/PPPQ1PPP/2KR1B1R%20w%20kq%20-%200%201&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=r1b1k2r/p3ppb1/n1pp1np1/q3P2p/1p1P1B2/2N2N2/PPPQ1PPP/2KR1B1R%20w%20kq%20-%200%201&board=brown&piece=neo&size=3" alt="Choppy Waters" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=6rk/1p2n2p/P1N1pp2/3p1p1P/3P4/BQRBP3/1P5q/2R1K3%20b%20-%20-%200%2027&board=walnut&piece=neo&size=3&flip=true" />
+        <img src="https://www.chess.com/dynboard?fen=6rk/1p2n2p/P1N1pp2/3p1p1P/3P4/BQRBP3/1P5q/2R1K3%20b%20-%20-%200%2027&board=brown&piece=neo&size=3&flip=true" alt="Major Piece Trampoline" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-09-26"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-09-27"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
