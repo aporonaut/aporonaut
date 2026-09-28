@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=6rk/1p2n2p/P1N1pp2/3p1p1P/3P4/BQRBP3/1P5q/2R1K3%20b%20-%20-%200%2027&board=walnut&piece=neo&size=3&flip=true" />
-        <img src="https://www.chess.com/dynboard?fen=6rk/1p2n2p/P1N1pp2/3p1p1P/3P4/BQRBP3/1P5q/2R1K3%20b%20-%20-%200%2027&board=brown&piece=neo&size=3&flip=true" alt="Major Piece Trampoline" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=r5k1/p6p/1p3p2/3p4/1N1P1P1P/R7/1P1K2bP/8%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=r5k1/p6p/1p3p2/3p4/1N1P1P1P/R7/1P1K2bP/8%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Look Both Ways" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-09-27"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-09-28"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
