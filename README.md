@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=4r2k/2R3pp/Q3N3/5p2/p4P2/Pn3KP1/3q4/1R6%20b%20-%20-%200%201&board=walnut&piece=neo&size=3&flip=true" />
-        <img src="https://www.chess.com/dynboard?fen=4r2k/2R3pp/Q3N3/5p2/p4P2/Pn3KP1/3q4/1R6%20b%20-%20-%200%201&board=brown&piece=neo&size=3&flip=true" alt="X-Ray Dreams" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=r4rk1/6p1/2p4p/1q1p3Q/p1nP4/P7/KP2B1R1/2b3R1%20w%20-%20-%200%2033&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=r4rk1/6p1/2p4p/1q1p3Q/p1nP4/P7/KP2B1R1/2b3R1%20w%20-%20-%200%2033&board=brown&piece=neo&size=3" alt="Breaking and Entering" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-09-29"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-09-30"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
