@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=3q1rk1/pp3pbp/6p1/8/2Q2Pn1/1B6/PPP3PP/R1B2RK1%20b%20-%20-%200%201&board=walnut&piece=neo&size=3&flip=true" />
-        <img src="https://www.chess.com/dynboard?fen=3q1rk1/pp3pbp/6p1/8/2Q2Pn1/1B6/PPP3PP/R1B2RK1%20b%20-%20-%200%201&board=brown&piece=neo&size=3&flip=true" alt="Defensive Breach" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=r4rk1/3bbppp/pq2p1n1/1p2P3/2p2P2/2P2NPP/PP4BK/R1BQ1R2%20w%20-%20-%202%2016&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=r4rk1/3bbppp/pq2p1n1/1p2P3/2p2P2/2P2NPP/PP4BK/R1BQ1R2%20w%20-%20-%202%2016&board=brown&piece=neo&size=3" alt="Exit Strategy" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-10-01"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-10-02"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
