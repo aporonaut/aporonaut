@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=8/p5pk/5r2/3Q1ppn/3N4/1P2P3/P4BRK/1q6%20b%20-%20-%200%2042&board=walnut&piece=neo&size=3&flip=true" />
-        <img src="https://www.chess.com/dynboard?fen=8/p5pk/5r2/3Q1ppn/3N4/1P2P3/P4BRK/1q6%20b%20-%20-%200%2042&board=brown&piece=neo&size=3&flip=true" alt="Beware of the Gift Horse" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=8/5p2/4p1p1/4Bq2/4kP2/4p3/2KbB1PP/8%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=8/5p2/4p1p1/4Bq2/4kP2/4p3/2KbB1PP/8%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Nowhere Square" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-10-04"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-10-05"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
