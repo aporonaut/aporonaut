@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=6k1/1p1q3p/2ppp1p1/p1b2r2/P1P1N3/4P3/2Q2PPP/3R2K1%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=6k1/1p1q3p/2ppp1p1/p1b2r2/P1P1N3/4P3/2Q2PPP/3R2K1%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Get Outta Here!" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=6rk/6p1/p2nq2p/1p1p3P/1P3PQN/1NP3R1/4r1PK/8%20w%20-%20-%200%2032&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=6rk/6p1/p2nq2p/1p1p3P/1P3PQN/1NP3R1/4r1PK/8%20w%20-%20-%200%2032&board=brown&piece=neo&size=3" alt="Double Hop Drop" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-10-06"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-10-07"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
