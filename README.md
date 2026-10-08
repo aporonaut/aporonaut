@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=6rk/6p1/p2nq2p/1p1p3P/1P3PQN/1NP3R1/4r1PK/8%20w%20-%20-%200%2032&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=6rk/6p1/p2nq2p/1p1p3P/1P3PQN/1NP3R1/4r1PK/8%20w%20-%20-%200%2032&board=brown&piece=neo&size=3" alt="Double Hop Drop" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=5B2/7R/2p2pp1/8/1Pk1P3/2n1KPP1/1r5P/8%20b%20-%20-%200%2039&board=walnut&piece=neo&size=3&flip=true" />
+        <img src="https://www.chess.com/dynboard?fen=5B2/7R/2p2pp1/8/1Pk1P3/2n1KPP1/1r5P/8%20b%20-%20-%200%2039&board=brown&piece=neo&size=3&flip=true" alt="Pwned" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-10-07"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-10-08"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
