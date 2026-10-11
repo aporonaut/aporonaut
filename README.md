@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=k7/p2N1p2/2p5/5p1p/2P2P1P/b5P1/Pr3P2/K4R2%20b%20-%20-%200%201&board=walnut&piece=neo&size=3&flip=true" />
-        <img src="https://www.chess.com/dynboard?fen=k7/p2N1p2/2p5/5p1p/2P2P1P/b5P1/Pr3P2/K4R2%20b%20-%20-%200%201&board=brown&piece=neo&size=3&flip=true" alt="Thief in the Knight" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=8/6q1/6b1/4p2k/P7/3n1P2/Q2B2P1/K7%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=8/6q1/6b1/4p2k/P7/3n1P2/Q2B2P1/K7%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Make Way for the Queen!" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-10-10"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-10-11"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
