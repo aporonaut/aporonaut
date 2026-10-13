@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=r4rk1/b4pp1/8/R2N4/1p5p/1P5P/4BPP1/6K1%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=r4rk1/b4pp1/8/R2N4/1p5p/1P5P/4BPP1/6K1%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Anastasia's Ambush ✔️" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=7k/8/3Q2p1/7p/4q3/1P4PP/5rBK/8%20w%20-%20-%200%2037&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=7k/8/3Q2p1/7p/4q3/1P4PP/5rBK/8%20w%20-%20-%200%2037&board=brown&piece=neo&size=3" alt="Ricochet Saves the Day" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-10-12"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-10-13"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
