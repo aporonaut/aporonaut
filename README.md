@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=1q6/2p4k/1p5p/1P4p1/4rp2/2R5/6PP/2Q4K%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=1q6/2p4k/1p5p/1P4p1/4rp2/2R5/6PP/2Q4K%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Thread the Needle" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=r1bqk2r/pp3ppp/2p5/b3p3/2B1n3/PPN5/1BP2PPP/R2QK2R%20w%20KQkq%20-%200%201&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=r1bqk2r/pp3ppp/2p5/b3p3/2B1n3/PPN5/1BP2PPP/R2QK2R%20w%20KQkq%20-%200%201&board=brown&piece=neo&size=3" alt="To the Batcave!" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-10-14"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-10-15"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
