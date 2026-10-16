@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=r1bqk2r/pp3ppp/2p5/b3p3/2B1n3/PPN5/1BP2PPP/R2QK2R%20w%20KQkq%20-%200%201&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=r1bqk2r/pp3ppp/2p5/b3p3/2B1n3/PPN5/1BP2PPP/R2QK2R%20w%20KQkq%20-%200%201&board=brown&piece=neo&size=3" alt="To the Batcave!" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=6k1/2p4p/1pq1p1p1/3nR3/1P3P1P/P5P1/5QK1/8%20b%20-%20-%200%201&board=walnut&piece=neo&size=3&flip=true" />
+        <img src="https://www.chess.com/dynboard?fen=6k1/2p4p/1pq1p1p1/3nR3/1P3P1P/P5P1/5QK1/8%20b%20-%20-%200%201&board=brown&piece=neo&size=3&flip=true" alt="Triple Threat Duet" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-10-15"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-10-16"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
