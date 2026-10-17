@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=6k1/2p4p/1pq1p1p1/3nR3/1P3P1P/P5P1/5QK1/8%20b%20-%20-%200%201&board=walnut&piece=neo&size=3&flip=true" />
-        <img src="https://www.chess.com/dynboard?fen=6k1/2p4p/1pq1p1p1/3nR3/1P3P1P/P5P1/5QK1/8%20b%20-%20-%200%201&board=brown&piece=neo&size=3&flip=true" alt="Triple Threat Duet" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=2k3r1/pp2pbr1/q1p4p/4RPn1/3P4/PNB1Q3/1PP3BP/5R1K%20b%20-%20-%200%201&board=walnut&piece=neo&size=3&flip=true" />
+        <img src="https://www.chess.com/dynboard?fen=2k3r1/pp2pbr1/q1p4p/4RPn1/3P4/PNB1Q3/1PP3BP/5R1K%20b%20-%20-%200%201&board=brown&piece=neo&size=3&flip=true" alt="Crash! Bang! gg" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-10-16"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-10-17"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
