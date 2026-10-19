@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=8/p3p2p/2PPk3/1Pn5/7P/6K1/8/8%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=8/p3p2p/2PPk3/1Pn5/7P/6K1/8/8%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Last Pawn Standing" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=7k/7p/5P2/2n5/q2B4/1p6/PP6/K7%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=7k/7p/5P2/2n5/q2B4/1p6/PP6/K7%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Endzone Leap 🏈" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-10-18"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-10-19"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
