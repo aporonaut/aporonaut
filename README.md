@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=8/bR3r1k/2p1p2p/p3p1p1/P3P1N1/5rP1/2P2PKP/4R3%20w%20-%20-%200%2029&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=8/bR3r1k/2p1p2p/p3p1p1/P3P1N1/5rP1/2P2PKP/4R3%20w%20-%20-%200%2029&board=brown&piece=neo&size=3" alt="Break It Up!" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=r1b2r1k/5Bpp/pq6/1p2p3/4P2Q/P3b3/1PP1n1PP/R4R1K%20w%20-%20-%200%2019&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=r1b2r1k/5Bpp/pq6/1p2p3/4P2Q/P3b3/1PP1n1PP/R4R1K%20w%20-%20-%200%2019&board=brown&piece=neo&size=3" alt="Drop It Like It’s Hot 🔥" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-10-20"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-10-21"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
