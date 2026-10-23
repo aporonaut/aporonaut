@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=1r6/k6r/p3b3/NpPQ2p1/1Pn5/5QP1/1q3P2/5K2%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=1r6/k6r/p3b3/NpPQ2p1/1Pn5/5QP1/1q3P2/5K2%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Double Feature" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=8/5p2/p1p1p3/2PpP3/1P1P4/3K3k/7P/1n2B3%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=8/5p2/p1p1p3/2PpP3/1P1P4/3K3k/7P/1n2B3%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Get Off Your High Horse🤠" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-10-22"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-10-23"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
