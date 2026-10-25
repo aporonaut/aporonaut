@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=8/p2r2p1/b5p1/3pp3/pq4P1/1P1P1P1k/PQ5P/4R2K%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=8/p2r2p1/b5p1/3pp3/pq4P1/1P1P1P1k/PQ5P/4R2K%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Nothing to See Here..." width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=5r2/p4k1p/1bp2B2/4P3/1Pb1qPQ1/8/1KP3P1/8%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=5r2/p4k1p/1bp2B2/4P3/1Pb1qPQ1/8/1KP3P1/8%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Pushing Up Daisies 🥀" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-10-24"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-10-25"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
