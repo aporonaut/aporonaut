@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=2r2r2/1p3pk1/3qpn1p/1n4p1/p2B4/P1PQ1P1P/5P2/1B2R1K1%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=2r2r2/1p3pk1/3qpn1p/1n4p1/p2B4/P1PQ1P1P/5P2/1B2R1K1%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Silent Partner" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=1k5r/p1pB1p2/1bpp4/8/PP1PPn1q/N4P2/3Q2P1/3R1RK1%20b%20-%20-%200%2025&board=walnut&piece=neo&size=3&flip=true" />
+        <img src="https://www.chess.com/dynboard?fen=1k5r/p1pB1p2/1bpp4/8/PP1PPn1q/N4P2/3Q2P1/3R1RK1%20b%20-%20-%200%2025&board=brown&piece=neo&size=3&flip=true" alt="Surprise Party 🥳" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-10-26"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-10-27"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
