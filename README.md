@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=1k5r/p1pB1p2/1bpp4/8/PP1PPn1q/N4P2/3Q2P1/3R1RK1%20b%20-%20-%200%2025&board=walnut&piece=neo&size=3&flip=true" />
-        <img src="https://www.chess.com/dynboard?fen=1k5r/p1pB1p2/1bpp4/8/PP1PPn1q/N4P2/3Q2P1/3R1RK1%20b%20-%20-%200%2025&board=brown&piece=neo&size=3&flip=true" alt="Surprise Party 🥳" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=8/pR4p1/k2p2n1/2p1p1bp/1PP5/6PP/P4PBK/1r6%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=8/pR4p1/k2p2n1/2p1p1bp/1PP5/6PP/P4PBK/1r6%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Nifty Hand Off" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-10-27"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-10-28"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
