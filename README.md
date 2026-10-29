@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=8/pR4p1/k2p2n1/2p1p1bp/1PP5/6PP/P4PBK/1r6%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=8/pR4p1/k2p2n1/2p1p1bp/1PP5/6PP/P4PBK/1r6%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Nifty Hand Off" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=5r1k/2p3pp/1rnb1qb1/p5N1/p2Pp3/2P4P/1PBQ1PP1/R1B1R1K1%20b%20-%20-%200%201&board=walnut&piece=neo&size=3&flip=true" />
+        <img src="https://www.chess.com/dynboard?fen=5r1k/2p3pp/1rnb1qb1/p5N1/p2Pp3/2P4P/1PBQ1PP1/R1B1R1K1%20b%20-%20-%200%201&board=brown&piece=neo&size=3&flip=true" alt="Severance" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-10-28"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-10-29"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
