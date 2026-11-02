@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=8/p5pk/1R2p3/2p3p1/8/2p4P/PN4P1/6K1%20b%20-%20-%200%2033&board=walnut&piece=neo&size=3&flip=true" />
-        <img src="https://www.chess.com/dynboard?fen=8/p5pk/1R2p3/2p3p1/8/2p4P/PN4P1/6K1%20b%20-%20-%200%2033&board=brown&piece=neo&size=3&flip=true" alt="Take Your Sweet Time" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=8/8/1pbp3P/2k1Np2/p1P2P2/P3P3/KP6/4q3%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=8/8/1pbp3P/2k1Np2/p1P2P2/P3P3/KP6/4q3%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Clutch Comeback" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-11-01"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-11-02"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
