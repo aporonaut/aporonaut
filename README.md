@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=k7/8/2K3p1/2N3P1/2R5/5B2/q2p3p/8%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=k7/8/2K3p1/2N3P1/2R5/5B2/q2p3p/8%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Let Your Pieces Cook" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=2r5/R4P1k/3p2nb/7p/1p2b2P/1Bp2N2/K1P2qP1/8%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=2r5/R4P1k/3p2nb/7p/1p2b2P/1Bp2N2/K1P2qP1/8%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Jump Scare! 😱" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-11-03"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-11-04"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
