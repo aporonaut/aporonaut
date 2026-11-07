@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=4rrk1/1pq2p2/1b1n1p1p/pb6/1P5N/PB4PP/1PQ1pP1K/2R5%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=4rrk1/1pq2p2/1b1n1p1p/pb6/1P5N/PB4PP/1PQ1pP1K/2R5%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Frozen Bystander 🥶" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=8/8/P7/6n1/6k1/6Bb/7P/7K%20b%20-%20-%200%201&board=walnut&piece=neo&size=3&flip=true" />
+        <img src="https://www.chess.com/dynboard?fen=8/8/P7/6n1/6k1/6Bb/7P/7K%20b%20-%20-%200%201&board=brown&piece=neo&size=3&flip=true" alt="Royal Buzzkill" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-11-06"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-11-07"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
