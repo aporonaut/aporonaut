@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=8/8/P7/6n1/6k1/6Bb/7P/7K%20b%20-%20-%200%201&board=walnut&piece=neo&size=3&flip=true" />
-        <img src="https://www.chess.com/dynboard?fen=8/8/P7/6n1/6k1/6Bb/7P/7K%20b%20-%20-%200%201&board=brown&piece=neo&size=3&flip=true" alt="Royal Buzzkill" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=8/p3p3/kpK5/pN6/q3N3/2P5/4P3/8%20w%20-%20-%200%205&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=8/p3p3/kpK5/pN6/q3N3/2P5/4P3/8%20w%20-%20-%200%205&board=brown&piece=neo&size=3" alt="Slow Motion Squeeze" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-11-07"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-11-08"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
