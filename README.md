@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=8/p3p3/kpK5/pN6/q3N3/2P5/4P3/8%20w%20-%20-%200%205&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=8/p3p3/kpK5/pN6/q3N3/2P5/4P3/8%20w%20-%20-%200%205&board=brown&piece=neo&size=3" alt="Slow Motion Squeeze" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=7k/5rpp/8/p7/1p4n1/1P5P/4RrP1/5R1K%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=7k/5rpp/8/p7/1p4n1/1P5P/4RrP1/5R1K%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Holler Back" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-11-08"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-11-09"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
