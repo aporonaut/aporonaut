@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=7k/5rpp/8/p7/1p4n1/1P5P/4RrP1/5R1K%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=7k/5rpp/8/p7/1p4n1/1P5P/4RrP1/5R1K%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Holler Back" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=6k1/pb2rqp1/3p3p/2p3r1/2P5/3N1B2/P1Q2PPP/1R2R2K%20b%20-%20-%200%2021&board=walnut&piece=neo&size=3&flip=true" />
+        <img src="https://www.chess.com/dynboard?fen=6k1/pb2rqp1/3p3p/2p3r1/2P5/3N1B2/P1Q2PPP/1R2R2K%20b%20-%20-%200%2021&board=brown&piece=neo&size=3&flip=true" alt="Go All In!" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-11-09"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-11-10"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
