@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=6k1/4rb2/3b1R1Q/p6p/2pq3r/P2n2NP/1P4P1/5R1K%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=6k1/4rb2/3b1R1Q/p6p/2pq3r/P2n2NP/1P4P1/5R1K%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Eviction Notice" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=2r1q3/3nb1p1/p6p/5B2/4R3/6P1/PBk2K1P/8%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=2r1q3/3nb1p1/p6p/5B2/4R3/6P1/PBk2K1P/8%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="As the Pendulum Swings" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-11-11"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-11-12"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
