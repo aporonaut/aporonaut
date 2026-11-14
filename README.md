@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=4r1k1/3q1pp1/p3b1np/1p1p4/1P3b2/PBNP1Q1P/1B3PP1/4R1K1%20b%20-%20-%200%201&board=walnut&piece=neo&size=3&flip=true" />
-        <img src="https://www.chess.com/dynboard?fen=4r1k1/3q1pp1/p3b1np/1p1p4/1P3b2/PBNP1Q1P/1B3PP1/4R1K1%20b%20-%20-%200%201&board=brown&piece=neo&size=3&flip=true" alt="Shocking Reveal 😨" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=r1b1k2r/1p1nqpp1/p3p2p/3pP1N1/8/P2BQ3/1P3PPP/2R2RK1%20w%20kq%20-%200%201&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=r1b1k2r/1p1nqpp1/p3p2p/3pP1N1/8/P2BQ3/1P3PPP/2R2RK1%20w%20kq%20-%200%201&board=brown&piece=neo&size=3" alt="Free Lunch?" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-11-13"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-11-14"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
