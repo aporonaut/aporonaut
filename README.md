@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=r1b1k2r/1p1nqpp1/p3p2p/3pP1N1/8/P2BQ3/1P3PPP/2R2RK1%20w%20kq%20-%200%201&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=r1b1k2r/1p1nqpp1/p3p2p/3pP1N1/8/P2BQ3/1P3PPP/2R2RK1%20w%20kq%20-%200%201&board=brown&piece=neo&size=3" alt="Free Lunch?" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=1r5r/2pb1p2/q2pnB1k/4p2p/p3BP2/8/PP3P2/K5RR%20w%20-%20-%200%2026&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=1r5r/2pb1p2/q2pnB1k/4p2p/p3BP2/8/PP3P2/K5RR%20w%20-%20-%200%2026&board=brown&piece=neo&size=3" alt="Opened for Closing Time" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-11-14"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-11-15"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
