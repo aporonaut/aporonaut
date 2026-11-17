@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=2r3k1/3n1pbp/p3pnp1/1pp5/R7/1P1BP1Pq/1BPNQP1P/6K1%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=2r3k1/3n1pbp/p3pnp1/1pp5/R7/1P1BP1Pq/1BPNQP1P/6K1%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Got 'Em!" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=7k/p2n4/1b3R1p/3pB2P/P2P2K1/5P2/R5P1/1q6%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=7k/p2n4/1b3R1p/3pB2P/P2P2K1/5P2/R5P1/1q6%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Seeing Double 😵" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-11-16"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-11-17"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
