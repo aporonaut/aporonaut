@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=4r3/R1R5/1p3n2/1kb1p3/6p1/2P3Pr/PP2P2P/5K2%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=4r3/R1R5/1p3n2/1kb1p3/6p1/2P3Pr/PP2P2P/5K2%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Stay Calm, Weave On" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=1R6/4r1pk/2p3Rp/1b1p3P/3BP3/r4PP1/p1P4K/8%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=1R6/4r1pk/2p3Rp/1b1p3P/3BP3/r4PP1/p1P4K/8%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Lock In!" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-11-21"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-11-22"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
