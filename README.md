@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=1R6/4r1pk/2p3Rp/1b1p3P/3BP3/r4PP1/p1P4K/8%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=1R6/4r1pk/2p3Rp/1b1p3P/3BP3/r4PP1/p1P4K/8%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Lock In!" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=7R/8/4k2b/7P/1P4P1/1KP5/4q3/8%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=7R/8/4k2b/7P/1P4P1/1KP5/4q3/8%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Don't Settle for Less" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-11-22"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-11-23"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
