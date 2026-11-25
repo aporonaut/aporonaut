@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=8/5Rp1/3Bn2p/4N1k1/3p4/3P2P1/q7/7K%20w%20-%20-%200%2043&board=walnut&piece=neo&size=3" />
-        <img src="https://www.chess.com/dynboard?fen=8/5Rp1/3Bn2p/4N1k1/3p4/3P2P1/q7/7K%20w%20-%20-%200%2043&board=brown&piece=neo&size=3" alt="Clincher" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=q7/1Q2p3/r3k2p/7p/1P6/1K6/6R1/8%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=q7/1Q2p3/r3k2p/7p/1P6/1K6/6R1/8%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Check Twice..." width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-11-24"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-11-25"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
