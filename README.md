@@ -169,11 +169,11 @@ MARQUEE:CONFIG -->
 <!-- CHESS_PUZZLE:START -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=3r4/pk3b1p/1ppbqPp1/4n1P1/1P2P3/3P1NB1/1PP4Q/1K1R1R2%20b%20-%20-%200%2027&board=walnut&piece=neo&size=3&flip=true" />
-        <img src="https://www.chess.com/dynboard?fen=3r4/pk3b1p/1ppbqPp1/4n1P1/1P2P3/3P1NB1/1PP4Q/1K1R1R2%20b%20-%20-%200%2027&board=brown&piece=neo&size=3&flip=true" alt="Gobble, Gobble, Mate! 🦃" width="55%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.chess.com/dynboard?fen=3r3k/1b5p/1p5B/p1b2p2/Pn3Np1/1Bq2pP1/2PrP3/4RK1R%20w%20-%20-%200%201&board=walnut&piece=neo&size=3" />
+        <img src="https://www.chess.com/dynboard?fen=3r3k/1b5p/1p5B/p1b2p2/Pn3Np1/1Bq2pP1/2PrP3/4RK1R%20w%20-%20-%200%201&board=brown&piece=neo&size=3" alt="Hop, Drop and Roll" width="55%" />
     </picture>
     <br />
-    <a href="https://www.chess.com/daily/2026-11-26"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
+    <a href="https://www.chess.com/daily/2026-11-27"><b>&#9823; Solve today's puzzle on Chess.com</b></a>
 </div>
 <!-- CHESS_PUZZLE:END -->
 
